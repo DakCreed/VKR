@@ -1,0 +1,1005 @@
+<tbody><tr align="center" valign="middle" height="15">
+<td width="34" class="midtext"><font color="#000000">&nbsp;<b>№</b></font></td>
+<td width="24">&nbsp;</td>
+<td width="364" class="midtext"><font color="#000000"><b>Автор</b></font></td>
+<td width="54" align="left" class="midtext"><span title="Число публикаций автора на elibrary.ru"><font color="#000000"><b>Публ.</b></font></span></td>
+<td width="24" class="midtext"><span title="Число цитирований публикаций автора на elibrary.ru"><font color="#000000"><b>Цит.</b></font></span></td>
+<td width="44" class="midtext"><span title="Индекс Хирша автора по elibrary.ru"><font color="#000000"><b>Хирш</b></font></span></td></tr>
+<tr><td colspan="6">
+<div style="width: 574px;" class="table-line"></div>
+</td></tr>
+<tr><td colspan="6" height="0"></td></tr>
+
+<tr valign="top" id="a314705" bgcolor="#f5f5f5">
+<td align="center" class="midtext select-tr-left"><font color="#00008f"><div><b>1.</b></div></font><br></td>
+<td align="center"><div><input type="checkbox" name="tid314705" id="tid314705" onclick="if (document.getElementById(&quot;tid314705&quot;).checked) {RowSelect(&quot;a314705&quot;,1)} else {RowSelect(&quot;a314705&quot;,0)}"></div></td>
+<td align="left" class="midtext"><font color="#00008f"><b>Дрожжин&nbsp; Владимир&nbsp; Станиславович</b></font>
+<br>
+Национальный исследовательский Томский государственный университет (Томск)
+</td>
+
+
+<td nowrap="" align="right" class="midtext"><div><font color="#00008f">0</font><img src="/pic/1pix.gif" hspace="16"></div></td>
+<td nowrap="" align="center" class="midtext"><div><font color="#00008f">0</font></div></td><td nowrap="" align="center" class="midtext select-tr-right"><div>0</div></td></tr>
+
+
+
+<input type="hidden" id="hid314705" name="hid314705" value="Дрожжин В С">
+
+<tr valign="top" id="a314707" bgcolor="#f5f5f5">
+<td align="center" class="midtext select-tr-left"><font color="#00008f"><div><b>2.</b></div></font><br></td>
+<td align="center"><div><input type="checkbox" name="tid314707" id="tid314707" onclick="if (document.getElementById(&quot;tid314707&quot;).checked) {RowSelect(&quot;a314707&quot;,1)} else {RowSelect(&quot;a314707&quot;,0)}"></div></td>
+<td align="left" class="midtext"><font color="#00008f"><b>Дрожжин&nbsp; Игорь&nbsp; Александрович</b></font>
+<br>
+Санкт-Петербургский государственный университет (Санкт-Петербург)
+</td>
+
+
+<td nowrap="" align="right" class="midtext"><div><font color="#00008f">0</font><img src="/pic/1pix.gif" hspace="16"></div></td>
+<td nowrap="" align="center" class="midtext"><div><font color="#00008f">0</font></div></td><td nowrap="" align="center" class="midtext select-tr-right"><div>0</div></td></tr>
+
+
+
+<input type="hidden" id="hid314707" name="hid314707" value="Дрожжин И А">
+
+<tr valign="top" id="a314711" bgcolor="#f5f5f5">
+<td align="center" class="midtext select-tr-left"><font color="#00008f"><div><b>3.</b></div></font><br></td>
+<td align="center"><div><input type="checkbox" name="tid314711" id="tid314711" onclick="if (document.getElementById(&quot;tid314711&quot;).checked) {RowSelect(&quot;a314711&quot;,1)} else {RowSelect(&quot;a314711&quot;,0)}"></div></td>
+<td align="left" class="midtext"><font color="#00008f"><b>Дрожжина&nbsp; Елена&nbsp; Юрьевна</b></font>
+<br>
+Московский педагогический государственный университет (Москва)
+</td>
+
+
+<td nowrap="" align="right" class="midtext"><div><font color="#00008f">0</font><img src="/pic/1pix.gif" hspace="16"></div></td>
+<td nowrap="" align="center" class="midtext"><div><font color="#00008f">0</font></div></td><td nowrap="" align="center" class="midtext select-tr-right"><div>0</div></td></tr>
+
+
+
+<input type="hidden" id="hid314711" name="hid314711" value="Дрожжина Е Ю">
+
+<tr valign="top" id="a511123" bgcolor="#f5f5f5">
+<td align="center" class="midtext select-tr-left"><font color="#00008f"><div><b>4.</b></div></font><br></td>
+<td align="center"><div><input type="checkbox" name="tid511123" id="tid511123" onclick="if (document.getElementById(&quot;tid511123&quot;).checked) {RowSelect(&quot;a511123&quot;,1)} else {RowSelect(&quot;a511123&quot;,0)}"></div></td>
+<td align="left" class="midtext"><font color="#00008f"><b>Дрожжин&nbsp; Матвей&nbsp; Сергеевич</b></font>
+<br>
+МУЗ «Городская клиническая больница № 34»
+</td>
+
+
+<td nowrap="" align="right" class="midtext"><div><font color="#00008f">0</font><img src="/pic/1pix.gif" hspace="16"></div></td>
+<td nowrap="" align="center" class="midtext"><div><font color="#00008f">0</font></div></td><td nowrap="" align="center" class="midtext select-tr-right"><div>0</div></td></tr>
+
+
+
+<input type="hidden" id="hid511123" name="hid511123" value="Дрожжин М С">
+
+<tr valign="top" id="a499337" bgcolor="#f5f5f5">
+<td align="center" class="midtext select-tr-left"><font color="#00008f"><div><b>5.</b></div></font><br></td>
+<td align="center"><div><input type="checkbox" name="tid499337" id="tid499337" onclick="if (document.getElementById(&quot;tid499337&quot;).checked) {RowSelect(&quot;a499337&quot;,1)} else {RowSelect(&quot;a499337&quot;,0)}"></div></td>
+<td align="left" class="midtext"><font color="#00008f"><b>Дрожжина&nbsp; Елена&nbsp; Евгеньевна</b></font>
+<br>
+Волгоградский государственный университет (Волгоград)
+</td>
+
+
+<td nowrap="" align="right" class="midtext"><div><a href="author_items.asp?authorid=499337&amp;show_refs=1&amp;show_option=1" title="Список публикаций данного автора на портале elibrary.ru">1</a><a href="author_profile.asp?id=499337" title="Анализ публикационной активности автора"><img src="/pic/stat.gif" width="12" height="13" hspace="10" border="0"></a></div></td>
+<td nowrap="" align="center" class="midtext"><div><font color="#00008f">0</font></div></td><td nowrap="" align="center" class="midtext select-tr-right"><div>0</div></td></tr>
+
+
+
+<input type="hidden" id="hid499337" name="hid499337" value="Дрожжина Е Е">
+
+<tr valign="top" id="a534088" bgcolor="#f5f5f5">
+<td align="center" class="midtext select-tr-left"><font color="#00008f"><div><b>6.</b></div></font><br></td>
+<td align="center"><div><input type="checkbox" name="tid534088" id="tid534088" onclick="if (document.getElementById(&quot;tid534088&quot;).checked) {RowSelect(&quot;a534088&quot;,1)} else {RowSelect(&quot;a534088&quot;,0)}"></div></td>
+<td align="left" class="midtext"><font color="#00008f"><b>Дрожжин&nbsp; Юрий&nbsp; Григорьевич</b></font>
+<br>
+Государственный научно-исследовательский институт органической химии и технологии (Москва)
+</td>
+
+
+<td nowrap="" align="right" class="midtext"><div><a href="author_items.asp?authorid=534088&amp;show_refs=1&amp;show_option=1" title="Список публикаций данного автора на портале elibrary.ru">1</a><a href="author_profile.asp?id=534088" title="Анализ публикационной активности автора"><img src="/pic/stat.gif" width="12" height="13" hspace="10" border="0"></a></div></td>
+<td nowrap="" align="center" class="midtext"><div><font color="#00008f">0</font></div></td><td nowrap="" align="center" class="midtext select-tr-right"><div>0</div></td></tr>
+
+
+
+<input type="hidden" id="hid534088" name="hid534088" value="Дрожжин Ю Г">
+
+<tr valign="top" id="a701188" bgcolor="#f5f5f5">
+<td align="center" class="midtext select-tr-left"><font color="#00008f"><div style="margin-top:8px;"><b>7.</b></div></font><br></td>
+<td align="center"><div style="margin-top:7px;"><input type="checkbox" name="tid701188" id="tid701188" onclick="if (document.getElementById(&quot;tid701188&quot;).checked) {RowSelect(&quot;a701188&quot;,1)} else {RowSelect(&quot;a701188&quot;,0)}"></div></td>
+<td align="left" class="midtext"><font color="#00008f"><b>Дрожжина&nbsp; Татьяна&nbsp; Александровна</b></font><span class="aster" title="Автор зарегистрирован в SCIENCE INDEX">*</span>
+<br>
+Санкт-Петербургский политехнический университет Петра Великого (Санкт-Петербург)
+</td>
+
+
+<td nowrap="" align="right" class="midtext"><div style="margin-top:8px;"><a href="author_items.asp?authorid=701188&amp;show_refs=1&amp;show_option=1" title="Список публикаций данного автора на портале elibrary.ru">1</a><a href="author_profile.asp?id=701188" title="Анализ публикационной активности автора"><img src="/pic/stat.gif" width="12" height="13" hspace="10" border="0"></a></div></td>
+<td nowrap="" align="center" class="midtext"><div style="margin-top:8px;"><font color="#00008f">0</font></div></td><td nowrap="" align="center" class="midtext select-tr-right"><div style="margin-top:8px;">0</div></td></tr>
+
+
+
+<input type="hidden" id="hid701188" name="hid701188" value="Дрожжина Т А">
+
+<tr valign="top" id="a940985" bgcolor="#f5f5f5">
+<td align="center" class="midtext select-tr-left"><font color="#00008f"><div style="margin-top:8px;"><b>8.</b></div></font><br></td>
+<td align="center"><div style="margin-top:7px;"><input type="checkbox" name="tid940985" id="tid940985" onclick="if (document.getElementById(&quot;tid940985&quot;).checked) {RowSelect(&quot;a940985&quot;,1)} else {RowSelect(&quot;a940985&quot;,0)}"></div></td>
+<td align="left" class="midtext"><font color="#00008f"><b>Дрожжин&nbsp; Павел&nbsp; Игоревич</b></font><span class="aster" title="Автор зарегистрирован в SCIENCE INDEX">*</span>
+<br>
+Белгородский университет кооперации, экономики и права (Белгород)
+</td>
+
+
+<td nowrap="" align="right" class="midtext"><div style="margin-top:8px;"><a href="author_items.asp?authorid=940985&amp;show_refs=1&amp;show_option=1" title="Список публикаций данного автора на портале elibrary.ru">1</a><a href="author_profile.asp?id=940985" title="Анализ публикационной активности автора"><img src="/pic/stat.gif" width="12" height="13" hspace="10" border="0"></a></div></td>
+<td nowrap="" align="center" class="midtext"><div style="margin-top:8px;"><font color="#00008f">0</font></div></td><td nowrap="" align="center" class="midtext select-tr-right"><div style="margin-top:8px;">0</div></td></tr>
+
+
+
+<input type="hidden" id="hid940985" name="hid940985" value="Дрожжин П И">
+
+<tr valign="top" id="a1148815" bgcolor="#f5f5f5">
+<td align="center" class="midtext select-tr-left"><font color="#00008f"><div style="margin-top:8px;"><b>9.</b></div></font><br></td>
+<td align="center"><div style="margin-top:7px;"><input type="checkbox" name="tid1148815" id="tid1148815" onclick="if (document.getElementById(&quot;tid1148815&quot;).checked) {RowSelect(&quot;a1148815&quot;,1)} else {RowSelect(&quot;a1148815&quot;,0)}"></div></td>
+<td align="left" class="midtext"><font color="#00008f"><b>Дрожжина&nbsp; Елизавета&nbsp; Андреевна</b></font><span class="aster" title="Автор зарегистрирован в SCIENCE INDEX">*</span>
+<br>
+Санкт-Петербургский государственный экономический университет (Санкт-Петербург)
+</td>
+
+
+<td nowrap="" align="right" class="midtext"><div style="margin-top:8px;"><a href="author_items.asp?authorid=1148815&amp;show_refs=1&amp;show_option=1" title="Список публикаций данного автора на портале elibrary.ru">2</a><a href="author_profile.asp?id=1148815" title="Анализ публикационной активности автора"><img src="/pic/stat.gif" width="12" height="13" hspace="10" border="0"></a></div></td>
+<td nowrap="" align="center" class="midtext"><div style="margin-top:8px;"><font color="#00008f">0</font></div></td><td nowrap="" align="center" class="midtext select-tr-right"><div style="margin-top:8px;">0</div></td></tr>
+
+
+
+<input type="hidden" id="hid1148815" name="hid1148815" value="Дрожжина Е А">
+
+<tr valign="top" id="a1172559" bgcolor="#f5f5f5">
+<td align="center" class="midtext select-tr-left"><font color="#00008f"><div style="margin-top:8px;"><b>10.</b></div></font><br></td>
+<td align="center"><div style="margin-top:7px;"><input type="checkbox" name="tid1172559" id="tid1172559" onclick="if (document.getElementById(&quot;tid1172559&quot;).checked) {RowSelect(&quot;a1172559&quot;,1)} else {RowSelect(&quot;a1172559&quot;,0)}"></div></td>
+<td align="left" class="midtext"><font color="#00008f"><b>Дрожжинов&nbsp; Дмитрий&nbsp; Евгеньевич</b></font><span class="aster" title="Автор зарегистрирован в SCIENCE INDEX">*</span>
+<br>
+Владимирский юридический институт ФСИН России (Владимир)
+</td>
+
+
+<td nowrap="" align="right" class="midtext"><div style="margin-top:8px;"><a href="author_items.asp?authorid=1172559&amp;show_refs=1&amp;show_option=1" title="Список публикаций данного автора на портале elibrary.ru">2</a><a href="author_profile.asp?id=1172559" title="Анализ публикационной активности автора"><img src="/pic/stat.gif" width="12" height="13" hspace="10" border="0"></a></div></td>
+<td nowrap="" align="center" class="midtext"><div style="margin-top:8px;"><font color="#00008f">0</font></div></td><td nowrap="" align="center" class="midtext select-tr-right"><div style="margin-top:8px;">0</div></td></tr>
+
+
+
+<input type="hidden" id="hid1172559" name="hid1172559" value="Дрожжинов Д Е">
+
+<tr valign="top" id="a1000613" bgcolor="#f5f5f5">
+<td align="center" class="midtext select-tr-left"><font color="#00008f"><div style="margin-top:8px;"><b>11.</b></div></font><br></td>
+<td align="center"><div style="margin-top:7px;"><input type="checkbox" name="tid1000613" id="tid1000613" onclick="if (document.getElementById(&quot;tid1000613&quot;).checked) {RowSelect(&quot;a1000613&quot;,1)} else {RowSelect(&quot;a1000613&quot;,0)}"></div></td>
+<td align="left" class="midtext"><font color="#00008f"><b>Дрожжина&nbsp; Дарья&nbsp; Дмитриевна</b></font><span class="aster" title="Автор зарегистрирован в SCIENCE INDEX">*</span>
+<br>
+Российский государственный социальный университет (Москва)
+</td>
+
+
+<td nowrap="" align="right" class="midtext"><div style="margin-top:8px;"><a href="author_items.asp?authorid=1000613&amp;show_refs=1&amp;show_option=1" title="Список публикаций данного автора на портале elibrary.ru">4</a><a href="author_profile.asp?id=1000613" title="Анализ публикационной активности автора"><img src="/pic/stat.gif" width="12" height="13" hspace="10" border="0"></a></div></td>
+<td nowrap="" align="center" class="midtext"><div style="margin-top:8px;"><font color="#00008f">0</font></div></td><td nowrap="" align="center" class="midtext select-tr-right"><div style="margin-top:8px;">0</div></td></tr>
+
+
+
+<input type="hidden" id="hid1000613" name="hid1000613" value="Дрожжина Д Д">
+
+<tr valign="top" id="a898871" bgcolor="#f5f5f5">
+<td align="center" class="midtext select-tr-left"><font color="#00008f"><div style="margin-top:8px;"><b>12.</b></div></font><br></td>
+<td align="center"><div style="margin-top:7px;"><input type="checkbox" name="tid898871" id="tid898871" onclick="if (document.getElementById(&quot;tid898871&quot;).checked) {RowSelect(&quot;a898871&quot;,1)} else {RowSelect(&quot;a898871&quot;,0)}"></div></td>
+<td align="left" class="midtext"><font color="#00008f"><b>Дрожжин&nbsp; Сергей&nbsp; Николаевич</b></font><span class="aster" title="Автор зарегистрирован в SCIENCE INDEX">*</span>
+<br>
+Иркутский национальный исследовательский технический университет (Иркутск)
+</td>
+
+
+<td nowrap="" align="right" class="midtext"><div style="margin-top:8px;"><a href="author_items.asp?authorid=898871&amp;show_refs=1&amp;show_option=1" title="Список публикаций данного автора на портале elibrary.ru">8</a><a href="author_profile.asp?id=898871" title="Анализ публикационной активности автора"><img src="/pic/stat.gif" width="12" height="13" hspace="10" border="0"></a></div></td>
+<td nowrap="" align="center" class="midtext"><div style="margin-top:8px;"><font color="#00008f">0</font></div></td><td nowrap="" align="center" class="midtext select-tr-right"><div style="margin-top:8px;">0</div></td></tr>
+
+
+
+<input type="hidden" id="hid898871" name="hid898871" value="Дрожжин С Н">
+
+<tr valign="top" id="a1105524" bgcolor="#f5f5f5">
+<td align="center" class="midtext select-tr-left"><font color="#00008f"><div style="margin-top:8px;"><b>13.</b></div></font><br></td>
+<td align="center"><div style="margin-top:7px;"><input type="checkbox" name="tid1105524" id="tid1105524" onclick="if (document.getElementById(&quot;tid1105524&quot;).checked) {RowSelect(&quot;a1105524&quot;,1)} else {RowSelect(&quot;a1105524&quot;,0)}"></div></td>
+<td align="left" class="midtext"><font color="#00008f"><b>Дрожжина&nbsp; Мария&nbsp; Сергеевна</b></font><span class="aster" title="Автор зарегистрирован в SCIENCE INDEX">*</span>
+<br>
+Крымский инженерно-педагогический университет им. Ф. Якубова (Симферополь)
+</td>
+
+
+<td nowrap="" align="right" class="midtext"><div style="margin-top:8px;"><a href="author_items.asp?authorid=1105524&amp;show_refs=1&amp;show_option=1" title="Список публикаций данного автора на портале elibrary.ru">3</a><a href="author_profile.asp?id=1105524" title="Анализ публикационной активности автора"><img src="/pic/stat.gif" width="12" height="13" hspace="10" border="0"></a></div></td>
+<td nowrap="" align="center" class="midtext"><div style="margin-top:8px;"><a href="author_refs.asp?authorid=1105524&amp;show_option=1" title="Список цитирований работ данного автора из всех публикаций на портале elibrary.ru">1</a></div></td><td nowrap="" align="center" class="midtext select-tr-right"><div style="margin-top:8px;">1</div></td></tr>
+
+
+
+<input type="hidden" id="hid1105524" name="hid1105524" value="Дрожжина М С">
+
+<tr valign="top" id="a1171228" bgcolor="#f5f5f5">
+<td align="center" class="midtext select-tr-left"><font color="#00008f"><div style="margin-top:8px;"><b>14.</b></div></font><br></td>
+<td align="center"><div style="margin-top:7px;"><input type="checkbox" name="tid1171228" id="tid1171228" onclick="if (document.getElementById(&quot;tid1171228&quot;).checked) {RowSelect(&quot;a1171228&quot;,1)} else {RowSelect(&quot;a1171228&quot;,0)}"></div></td>
+<td align="left" class="midtext"><font color="#00008f"><b>Дрожжин&nbsp; Денис&nbsp; Игоревич</b></font><span class="aster" title="Автор зарегистрирован в SCIENCE INDEX">*</span>
+<br>
+Российская академия народного хозяйства и государственной службы при Президенте РФ (Москва)
+</td>
+
+
+<td nowrap="" align="right" class="midtext"><div style="margin-top:8px;"><a href="author_items.asp?authorid=1171228&amp;show_refs=1&amp;show_option=1" title="Список публикаций данного автора на портале elibrary.ru">3</a><a href="author_profile.asp?id=1171228" title="Анализ публикационной активности автора"><img src="/pic/stat.gif" width="12" height="13" hspace="10" border="0"></a></div></td>
+<td nowrap="" align="center" class="midtext"><div style="margin-top:8px;"><a href="author_refs.asp?authorid=1171228&amp;show_option=1" title="Список цитирований работ данного автора из всех публикаций на портале elibrary.ru">1</a></div></td><td nowrap="" align="center" class="midtext select-tr-right"><div style="margin-top:8px;">1</div></td></tr>
+
+
+
+<input type="hidden" id="hid1171228" name="hid1171228" value="Дрожжин Д И">
+
+<tr valign="top" id="a973921" bgcolor="#f5f5f5">
+<td align="center" class="midtext select-tr-left"><font color="#00008f"><div style="margin-top:8px;"><b>15.</b></div></font><br></td>
+<td align="center"><div style="margin-top:7px;"><input type="checkbox" name="tid973921" id="tid973921" onclick="if (document.getElementById(&quot;tid973921&quot;).checked) {RowSelect(&quot;a973921&quot;,1)} else {RowSelect(&quot;a973921&quot;,0)}"></div></td>
+<td align="left" class="midtext"><font color="#00008f"><b>Дрожжина&nbsp; Лариса&nbsp; Ивановна</b></font><span class="aster" title="Автор зарегистрирован в SCIENCE INDEX">*</span>
+<br>
+Белгородский государственный институт искусств и культуры (Белгород)
+</td>
+
+
+<td nowrap="" align="right" class="midtext"><div style="margin-top:8px;"><a href="author_items.asp?authorid=973921&amp;show_refs=1&amp;show_option=1" title="Список публикаций данного автора на портале elibrary.ru">55</a><a href="author_profile.asp?id=973921" title="Анализ публикационной активности автора"><img src="/pic/stat.gif" width="12" height="13" hspace="10" border="0"></a></div></td>
+<td nowrap="" align="center" class="midtext"><div style="margin-top:8px;"><a href="author_refs.asp?authorid=973921&amp;show_option=1" title="Список цитирований работ данного автора из всех публикаций на портале elibrary.ru">1</a></div></td><td nowrap="" align="center" class="midtext select-tr-right"><div style="margin-top:8px;">1</div></td></tr>
+
+
+
+<input type="hidden" id="hid973921" name="hid973921" value="Дрожжина Л И">
+
+<tr valign="top" id="a1088644" bgcolor="#f5f5f5">
+<td align="center" class="midtext select-tr-left"><font color="#00008f"><div style="margin-top:8px;"><b>16.</b></div></font><br></td>
+<td align="center"><div style="margin-top:7px;"><input type="checkbox" name="tid1088644" id="tid1088644" onclick="if (document.getElementById(&quot;tid1088644&quot;).checked) {RowSelect(&quot;a1088644&quot;,1)} else {RowSelect(&quot;a1088644&quot;,0)}"></div></td>
+<td align="left" class="midtext"><font color="#00008f"><b>Дрожжина&nbsp; Ольга&nbsp; Анатольевна</b></font><span class="aster" title="Автор зарегистрирован в SCIENCE INDEX">*</span>
+<br>
+Финансовый университет при Правительстве РФ (Москва)
+</td>
+
+
+<td nowrap="" align="right" class="midtext"><div style="margin-top:8px;"><a href="author_items.asp?authorid=1088644&amp;show_refs=1&amp;show_option=1" title="Список публикаций данного автора на портале elibrary.ru">1</a><a href="author_profile.asp?id=1088644" title="Анализ публикационной активности автора"><img src="/pic/stat.gif" width="12" height="13" hspace="10" border="0"></a></div></td>
+<td nowrap="" align="center" class="midtext"><div style="margin-top:8px;"><a href="author_refs.asp?authorid=1088644&amp;show_option=1" title="Список цитирований работ данного автора из всех публикаций на портале elibrary.ru">2</a></div></td><td nowrap="" align="center" class="midtext select-tr-right"><div style="margin-top:8px;">1</div></td></tr>
+
+
+
+<input type="hidden" id="hid1088644" name="hid1088644" value="Дрожжина О А">
+
+<tr valign="top" id="a1215892" bgcolor="#f5f5f5">
+<td align="center" class="midtext select-tr-left"><font color="#00008f"><div style="margin-top:8px;"><b>17.</b></div></font><br></td>
+<td align="center"><div style="margin-top:7px;"><input type="checkbox" name="tid1215892" id="tid1215892" onclick="if (document.getElementById(&quot;tid1215892&quot;).checked) {RowSelect(&quot;a1215892&quot;,1)} else {RowSelect(&quot;a1215892&quot;,0)}"></div></td>
+<td align="left" class="midtext"><font color="#00008f"><b>Дрожжин&nbsp; Игорь&nbsp; Валерьевич</b></font><span class="aster" title="Автор зарегистрирован в SCIENCE INDEX">*</span>
+<br>
+Кубанский государственный аграрный университет им. И.Т. Трубилина (Краснодар)
+</td>
+
+
+<td nowrap="" align="right" class="midtext"><div style="margin-top:8px;"><a href="author_items.asp?authorid=1215892&amp;show_refs=1&amp;show_option=1" title="Список публикаций данного автора на портале elibrary.ru">6</a><a href="author_profile.asp?id=1215892" title="Анализ публикационной активности автора"><img src="/pic/stat.gif" width="12" height="13" hspace="10" border="0"></a></div></td>
+<td nowrap="" align="center" class="midtext"><div style="margin-top:8px;"><a href="author_refs.asp?authorid=1215892&amp;show_option=1" title="Список цитирований работ данного автора из всех публикаций на портале elibrary.ru">2</a></div></td><td nowrap="" align="center" class="midtext select-tr-right"><div style="margin-top:8px;">1</div></td></tr>
+
+
+
+<input type="hidden" id="hid1215892" name="hid1215892" value="Дрожжин И В">
+
+<tr valign="top" id="a934051" bgcolor="#f5f5f5">
+<td align="center" class="midtext select-tr-left"><font color="#00008f"><div style="margin-top:8px;"><b>18.</b></div></font><br></td>
+<td align="center"><div style="margin-top:7px;"><input type="checkbox" name="tid934051" id="tid934051" onclick="if (document.getElementById(&quot;tid934051&quot;).checked) {RowSelect(&quot;a934051&quot;,1)} else {RowSelect(&quot;a934051&quot;,0)}"></div></td>
+<td align="left" class="midtext"><font color="#00008f"><b>Дрожжин&nbsp; Александр&nbsp; Викторович</b></font><span class="aster" title="Автор зарегистрирован в SCIENCE INDEX">*</span>
+<br>
+Ярославское высшее военное училище противовоздушной обороны Министерства обороны РФ (Ярославль)
+</td>
+
+
+<td nowrap="" align="right" class="midtext"><div style="margin-top:8px;"><a href="author_items.asp?authorid=934051&amp;show_refs=1&amp;show_option=1" title="Список публикаций данного автора на портале elibrary.ru">7</a><a href="author_profile.asp?id=934051" title="Анализ публикационной активности автора"><img src="/pic/stat.gif" width="12" height="13" hspace="10" border="0"></a></div></td>
+<td nowrap="" align="center" class="midtext"><div style="margin-top:8px;"><a href="author_refs.asp?authorid=934051&amp;show_option=1" title="Список цитирований работ данного автора из всех публикаций на портале elibrary.ru">3</a></div></td><td nowrap="" align="center" class="midtext select-tr-right"><div style="margin-top:8px;">1</div></td></tr>
+
+
+
+<input type="hidden" id="hid934051" name="hid934051" value="Дрожжин А В">
+
+<tr valign="top" id="a138442" bgcolor="#f5f5f5">
+<td align="center" class="midtext select-tr-left"><font color="#00008f"><div><b>19.</b></div></font><br></td>
+<td align="center"><div><input type="checkbox" name="tid138442" id="tid138442" onclick="if (document.getElementById(&quot;tid138442&quot;).checked) {RowSelect(&quot;a138442&quot;,1)} else {RowSelect(&quot;a138442&quot;,0)}"></div></td>
+<td align="left" class="midtext"><font color="#00008f"><b>Дрожжин&nbsp; Дмитрий&nbsp; Александрович</b></font>
+<br>
+Институт физической химии и электрохимии им. А.Н. Фрумкина РАН (Москва)
+</td>
+
+
+<td nowrap="" align="right" class="midtext"><div><a href="author_items.asp?authorid=138442&amp;show_refs=1&amp;show_option=1" title="Список публикаций данного автора на портале elibrary.ru">3</a><a href="author_profile.asp?id=138442" title="Анализ публикационной активности автора"><img src="/pic/stat.gif" width="12" height="13" hspace="10" border="0"></a></div></td>
+<td nowrap="" align="center" class="midtext"><div><a href="author_refs.asp?authorid=138442&amp;show_option=1" title="Список цитирований работ данного автора из всех публикаций на портале elibrary.ru">4</a></div></td><td nowrap="" align="center" class="midtext select-tr-right"><div>1</div></td></tr>
+
+
+
+<input type="hidden" id="hid138442" name="hid138442" value="Дрожжин Д А">
+
+<tr valign="top" id="a815045" bgcolor="#f5f5f5">
+<td align="center" class="midtext select-tr-left"><font color="#00008f"><div><b>20.</b></div></font><br></td>
+<td align="center"><div><input type="checkbox" name="tid815045" id="tid815045" onclick="if (document.getElementById(&quot;tid815045&quot;).checked) {RowSelect(&quot;a815045&quot;,1)} else {RowSelect(&quot;a815045&quot;,0)}"></div></td>
+<td align="left" class="midtext"><font color="#00008f"><b>Дрожжина&nbsp; Анастасия&nbsp; Сергеевна</b></font>
+<br>
+Краснодарский научно-исследовательский ветеринарный институт (Краснодар)
+</td>
+
+
+<td nowrap="" align="right" class="midtext"><div><a href="author_items.asp?authorid=815045&amp;show_refs=1&amp;show_option=1" title="Список публикаций данного автора на портале elibrary.ru">3</a><a href="author_profile.asp?id=815045" title="Анализ публикационной активности автора"><img src="/pic/stat.gif" width="12" height="13" hspace="10" border="0"></a></div></td>
+<td nowrap="" align="center" class="midtext"><div><a href="author_refs.asp?authorid=815045&amp;show_option=1" title="Список цитирований работ данного автора из всех публикаций на портале elibrary.ru">4</a></div></td><td nowrap="" align="center" class="midtext select-tr-right"><div>1</div></td></tr>
+
+
+
+<input type="hidden" id="hid815045" name="hid815045" value="Дрожжина А С">
+
+<tr valign="top" id="a525652" bgcolor="#f5f5f5">
+<td align="center" class="midtext select-tr-left"><font color="#00008f"><div><b>21.</b></div></font><br></td>
+<td align="center"><div><input type="checkbox" name="tid525652" id="tid525652" onclick="if (document.getElementById(&quot;tid525652&quot;).checked) {RowSelect(&quot;a525652&quot;,1)} else {RowSelect(&quot;a525652&quot;,0)}"></div></td>
+<td align="left" class="midtext"><font color="#00008f"><b>Дрожжин&nbsp; Силий&nbsp; Алексеевич</b></font>
+<br>
+Санкт-Петербургский университет МВД РФ (Санкт-Петербург)
+</td>
+
+
+<td nowrap="" align="right" class="midtext"><div><a href="author_items.asp?authorid=525652&amp;show_refs=1&amp;show_option=1" title="Список публикаций данного автора на портале elibrary.ru">1</a><a href="author_profile.asp?id=525652" title="Анализ публикационной активности автора"><img src="/pic/stat.gif" width="12" height="13" hspace="10" border="0"></a></div></td>
+<td nowrap="" align="center" class="midtext"><div><a href="author_refs.asp?authorid=525652&amp;show_option=1" title="Список цитирований работ данного автора из всех публикаций на портале elibrary.ru">5</a></div></td><td nowrap="" align="center" class="midtext select-tr-right"><div>1</div></td></tr>
+
+
+
+<input type="hidden" id="hid525652" name="hid525652" value="Дрожжин С А">
+
+<tr valign="top" id="a466128" bgcolor="#f5f5f5">
+<td align="center" class="midtext select-tr-left"><font color="#00008f"><div style="margin-top:8px;"><b>22.</b></div></font><br></td>
+<td align="center"><div style="margin-top:7px;"><input type="checkbox" name="tid466128" id="tid466128" onclick="if (document.getElementById(&quot;tid466128&quot;).checked) {RowSelect(&quot;a466128&quot;,1)} else {RowSelect(&quot;a466128&quot;,0)}"></div></td>
+<td align="left" class="midtext"><font color="#00008f"><b>Дрожжина&nbsp; (Хватова)&nbsp; Вероника&nbsp; Николаевна</b></font><span class="aster" title="Автор зарегистрирован в SCIENCE INDEX">*</span>
+<br>
+Воронежский государственный педагогический университет (Воронеж)
+</td>
+
+
+<td nowrap="" align="right" class="midtext"><div style="margin-top:8px;"><a href="author_items.asp?authorid=466128&amp;show_refs=1&amp;show_option=1" title="Список публикаций данного автора на портале elibrary.ru">42</a><a href="author_profile.asp?id=466128" title="Анализ публикационной активности автора"><img src="/pic/stat.gif" width="12" height="13" hspace="10" border="0"></a></div></td>
+<td nowrap="" align="center" class="midtext"><div style="margin-top:8px;"><a href="author_refs.asp?authorid=466128&amp;show_option=1" title="Список цитирований работ данного автора из всех публикаций на портале elibrary.ru">6</a></div></td><td nowrap="" align="center" class="midtext select-tr-right"><div style="margin-top:8px;">1</div></td></tr>
+
+
+
+<input type="hidden" id="hid466128" name="hid466128" value="Дрожжина В Н">
+
+<tr valign="top" id="a195879" bgcolor="#f5f5f5">
+<td align="center" class="midtext select-tr-left"><font color="#00008f"><div><b>23.</b></div></font><br></td>
+<td align="center"><div><input type="checkbox" name="tid195879" id="tid195879" onclick="if (document.getElementById(&quot;tid195879&quot;).checked) {RowSelect(&quot;a195879&quot;,1)} else {RowSelect(&quot;a195879&quot;,0)}"></div></td>
+<td align="left" class="midtext"><font color="#00008f"><b>Дрожжинов&nbsp; Валадимир&nbsp; Иванович</b></font>
+<br>
+Американская торговая палата в России (Москва)
+</td>
+
+
+<td nowrap="" align="right" class="midtext"><div><font color="#00008f">0</font><img src="/pic/1pix.gif" hspace="16"></div></td>
+<td nowrap="" align="center" class="midtext"><div><a href="author_refs.asp?authorid=195879&amp;show_option=1" title="Список цитирований работ данного автора из всех публикаций на портале elibrary.ru">7</a></div></td><td nowrap="" align="center" class="midtext select-tr-right"><div>1</div></td></tr>
+
+
+
+<input type="hidden" id="hid195879" name="hid195879" value="Дрожжинов В И">
+
+<tr valign="top" id="a710399" bgcolor="#f5f5f5">
+<td align="center" class="midtext select-tr-left"><font color="#00008f"><div style="margin-top:8px;"><b>24.</b></div></font><br></td>
+<td align="center"><div style="margin-top:7px;"><input type="checkbox" name="tid710399" id="tid710399" onclick="if (document.getElementById(&quot;tid710399&quot;).checked) {RowSelect(&quot;a710399&quot;,1)} else {RowSelect(&quot;a710399&quot;,0)}"></div></td>
+<td align="left" class="midtext"><font color="#00008f"><b>Дрожжин&nbsp; Василий&nbsp; Васильевич</b></font><span class="aster" title="Автор зарегистрирован в SCIENCE INDEX">*</span>
+<br>
+Сибирский государственный индустриальный университет (Новокузнецк)
+</td>
+
+
+<td nowrap="" align="right" class="midtext"><div style="margin-top:8px;"><a href="author_items.asp?authorid=710399&amp;show_refs=1&amp;show_option=1" title="Список публикаций данного автора на портале elibrary.ru">9</a><a href="author_profile.asp?id=710399" title="Анализ публикационной активности автора"><img src="/pic/stat.gif" width="12" height="13" hspace="10" border="0"></a></div></td>
+<td nowrap="" align="center" class="midtext"><div style="margin-top:8px;"><a href="author_refs.asp?authorid=710399&amp;show_option=1" title="Список цитирований работ данного автора из всех публикаций на портале elibrary.ru">10</a></div></td><td nowrap="" align="center" class="midtext select-tr-right"><div style="margin-top:8px;">1</div></td></tr>
+
+
+
+<input type="hidden" id="hid710399" name="hid710399" value="Дрожжин В В">
+
+<tr valign="top" id="a314706" bgcolor="#f5f5f5">
+<td align="center" class="midtext select-tr-left"><font color="#00008f"><div style="margin-top:8px;"><b>25.</b></div></font><br></td>
+<td align="center"><div style="margin-top:7px;"><input type="checkbox" name="tid314706" id="tid314706" onclick="if (document.getElementById(&quot;tid314706&quot;).checked) {RowSelect(&quot;a314706&quot;,1)} else {RowSelect(&quot;a314706&quot;,0)}"></div></td>
+<td align="left" class="midtext"><font color="#00008f"><b>Дрожжин&nbsp; Дмитрий&nbsp; Петрович</b></font><span class="aster" title="Автор зарегистрирован в SCIENCE INDEX">*</span>
+<br>
+Федеральный исследовательский центр комплексного изучения Арктики им. акад. Н.П. Лаверова УрО РАН (Архангельск)
+</td>
+
+
+<td nowrap="" align="right" class="midtext"><div style="margin-top:8px;"><a href="author_items.asp?authorid=314706&amp;show_refs=1&amp;show_option=1" title="Список публикаций данного автора на портале elibrary.ru">10</a><a href="author_profile.asp?id=314706" title="Анализ публикационной активности автора"><img src="/pic/stat.gif" width="12" height="13" hspace="10" border="0"></a></div></td>
+<td nowrap="" align="center" class="midtext"><div style="margin-top:8px;"><a href="author_refs.asp?authorid=314706&amp;show_option=1" title="Список цитирований работ данного автора из всех публикаций на портале elibrary.ru">21</a></div></td><td nowrap="" align="center" class="midtext select-tr-right"><div style="margin-top:8px;">1</div></td></tr>
+
+
+
+<input type="hidden" id="hid314706" name="hid314706" value="Дрожжин Д П">
+
+<tr valign="top" id="a894513" bgcolor="#f5f5f5">
+<td align="center" class="midtext select-tr-left"><font color="#00008f"><div style="margin-top:8px;"><b>26.</b></div></font><br></td>
+<td align="center"><div style="margin-top:7px;"><input type="checkbox" name="tid894513" id="tid894513" onclick="if (document.getElementById(&quot;tid894513&quot;).checked) {RowSelect(&quot;a894513&quot;,1)} else {RowSelect(&quot;a894513&quot;,0)}"></div></td>
+<td align="left" class="midtext"><font color="#00008f"><b>Дрожжина&nbsp; (Сёмина)&nbsp; Елена&nbsp; Владимировна</b></font><span class="aster" title="Автор зарегистрирован в SCIENCE INDEX">*</span>
+<br>
+Белгородский региональный институт повышения квалификации и профессиональной переподготовки специалистов (Белгород)
+</td>
+
+
+<td nowrap="" align="right" class="midtext"><div style="margin-top:8px;"><a href="author_items.asp?authorid=894513&amp;show_refs=1&amp;show_option=1" title="Список публикаций данного автора на портале elibrary.ru">5</a><a href="author_profile.asp?id=894513" title="Анализ публикационной активности автора"><img src="/pic/stat.gif" width="12" height="13" hspace="10" border="0"></a></div></td>
+<td nowrap="" align="center" class="midtext"><div style="margin-top:8px;"><a href="author_refs.asp?authorid=894513&amp;show_option=1" title="Список цитирований работ данного автора из всех публикаций на портале elibrary.ru">25</a></div></td><td nowrap="" align="center" class="midtext select-tr-right"><div style="margin-top:8px;">1</div></td></tr>
+
+
+
+<input type="hidden" id="hid894513" name="hid894513" value="Дрожжина Е В">
+
+<tr valign="top" id="a822587" bgcolor="#f5f5f5">
+<td align="center" class="midtext select-tr-left"><font color="#00008f"><div style="margin-top:8px;"><b>27.</b></div></font><br></td>
+<td align="center"><div style="margin-top:7px;"><input type="checkbox" name="tid822587" id="tid822587" onclick="if (document.getElementById(&quot;tid822587&quot;).checked) {RowSelect(&quot;a822587&quot;,1)} else {RowSelect(&quot;a822587&quot;,0)}"></div></td>
+<td align="left" class="midtext"><font color="#00008f"><b>Дрожжина&nbsp; Дарья&nbsp; Сергеевна</b></font><span class="aster" title="Автор зарегистрирован в SCIENCE INDEX">*</span>
+<br>
+Национальный исследовательский университет "Высшая школа экономики" (Москва)
+</td>
+
+
+<td nowrap="" align="right" class="midtext"><div style="margin-top:8px;"><a href="author_items.asp?authorid=822587&amp;show_refs=1&amp;show_option=1" title="Список публикаций данного автора на портале elibrary.ru">1</a><a href="author_profile.asp?id=822587" title="Анализ публикационной активности автора"><img src="/pic/stat.gif" width="12" height="13" hspace="10" border="0"></a></div></td>
+<td nowrap="" align="center" class="midtext"><div style="margin-top:8px;"><a href="author_refs.asp?authorid=822587&amp;show_option=1" title="Список цитирований работ данного автора из всех публикаций на портале elibrary.ru">54</a></div></td><td nowrap="" align="center" class="midtext select-tr-right"><div style="margin-top:8px;">1</div></td></tr>
+
+
+
+<input type="hidden" id="hid822587" name="hid822587" value="Дрожжина Д С">
+
+<tr valign="top" id="a509655" bgcolor="#f5f5f5">
+<td align="center" class="midtext select-tr-left"><font color="#00008f"><div><b>28.</b></div></font><br></td>
+<td align="center"><div><input type="checkbox" name="tid509655" id="tid509655" onclick="if (document.getElementById(&quot;tid509655&quot;).checked) {RowSelect(&quot;a509655&quot;,1)} else {RowSelect(&quot;a509655&quot;,0)}"></div></td>
+<td align="left" class="midtext"><font color="#00008f"><b>Дрожжин&nbsp; Алексей&nbsp; Викторович</b></font>
+<br>
+Национальный исследовательский Мордовский государственный университет им. Н.П. Огарева (Саранск)
+</td>
+
+
+<td nowrap="" align="right" class="midtext"><div><a href="author_items.asp?authorid=509655&amp;show_refs=1&amp;show_option=1" title="Список публикаций данного автора на портале elibrary.ru">2</a><a href="author_profile.asp?id=509655" title="Анализ публикационной активности автора"><img src="/pic/stat.gif" width="12" height="13" hspace="10" border="0"></a></div></td>
+<td nowrap="" align="center" class="midtext"><div><a href="author_refs.asp?authorid=509655&amp;show_option=1" title="Список цитирований работ данного автора из всех публикаций на портале elibrary.ru">6</a></div></td><td nowrap="" align="center" class="midtext select-tr-right"><div>2</div></td></tr>
+
+
+
+<input type="hidden" id="hid509655" name="hid509655" value="Дрожжин А В">
+
+<tr valign="top" id="a1060247" bgcolor="#f5f5f5">
+<td align="center" class="midtext select-tr-left"><font color="#00008f"><div style="margin-top:8px;"><b>29.</b></div></font><br></td>
+<td align="center"><div style="margin-top:7px;"><input type="checkbox" name="tid1060247" id="tid1060247" onclick="if (document.getElementById(&quot;tid1060247&quot;).checked) {RowSelect(&quot;a1060247&quot;,1)} else {RowSelect(&quot;a1060247&quot;,0)}"></div></td>
+<td align="left" class="midtext"><font color="#00008f"><b>Дрожжина&nbsp; Юлия&nbsp; Юрьевна</b></font><span class="aster" title="Автор зарегистрирован в SCIENCE INDEX">*</span>
+<br>
+Елецкий государственный университет им. И.А. Бунина (Елец)
+</td>
+
+
+<td nowrap="" align="right" class="midtext"><div style="margin-top:8px;"><a href="author_items.asp?authorid=1060247&amp;show_refs=1&amp;show_option=1" title="Список публикаций данного автора на портале elibrary.ru">12</a><a href="author_profile.asp?id=1060247" title="Анализ публикационной активности автора"><img src="/pic/stat.gif" width="12" height="13" hspace="10" border="0"></a></div></td>
+<td nowrap="" align="center" class="midtext"><div style="margin-top:8px;"><a href="author_refs.asp?authorid=1060247&amp;show_option=1" title="Список цитирований работ данного автора из всех публикаций на портале elibrary.ru">8</a></div></td><td nowrap="" align="center" class="midtext select-tr-right"><div style="margin-top:8px;">2</div></td></tr>
+
+
+
+<input type="hidden" id="hid1060247" name="hid1060247" value="Дрожжина Ю Ю">
+
+<tr valign="top" id="a919722" bgcolor="#f5f5f5">
+<td align="center" class="midtext select-tr-left"><font color="#00008f"><div style="margin-top:8px;"><b>30.</b></div></font><br></td>
+<td align="center"><div style="margin-top:7px;"><input type="checkbox" name="tid919722" id="tid919722" onclick="if (document.getElementById(&quot;tid919722&quot;).checked) {RowSelect(&quot;a919722&quot;,1)} else {RowSelect(&quot;a919722&quot;,0)}"></div></td>
+<td align="left" class="midtext"><font color="#00008f"><b>Дрожжин&nbsp; Игорь&nbsp; Александрович</b></font><span class="aster" title="Автор зарегистрирован в SCIENCE INDEX">*</span>
+<br>
+Тверской государственный университет (Тверь)
+</td>
+
+
+<td nowrap="" align="right" class="midtext"><div style="margin-top:8px;"><a href="author_items.asp?authorid=919722&amp;show_refs=1&amp;show_option=1" title="Список публикаций данного автора на портале elibrary.ru">17</a><a href="author_profile.asp?id=919722" title="Анализ публикационной активности автора"><img src="/pic/stat.gif" width="12" height="13" hspace="10" border="0"></a></div></td>
+<td nowrap="" align="center" class="midtext"><div style="margin-top:8px;"><a href="author_refs.asp?authorid=919722&amp;show_option=1" title="Список цитирований работ данного автора из всех публикаций на портале elibrary.ru">10</a></div></td><td nowrap="" align="center" class="midtext select-tr-right"><div style="margin-top:8px;">2</div></td></tr>
+
+
+
+<input type="hidden" id="hid919722" name="hid919722" value="Дрожжин И А">
+
+<tr valign="top" id="a565905" bgcolor="#f5f5f5">
+<td align="center" class="midtext select-tr-left"><font color="#00008f"><div style="margin-top:8px;"><b>31.</b></div></font><br></td>
+<td align="center"><div style="margin-top:7px;"><input type="checkbox" name="tid565905" id="tid565905" onclick="if (document.getElementById(&quot;tid565905&quot;).checked) {RowSelect(&quot;a565905&quot;,1)} else {RowSelect(&quot;a565905&quot;,0)}"></div></td>
+<td align="left" class="midtext"><font color="#00008f"><b>Дрожжина&nbsp; (Крицына)&nbsp; Евгения&nbsp; Юрьевна</b></font><span class="aster" title="Автор зарегистрирован в SCIENCE INDEX">*</span>
+<br>
+Елецкий государственный университет им. И.А. Бунина (Елец)
+</td>
+
+
+<td nowrap="" align="right" class="midtext"><div style="margin-top:8px;"><a href="author_items.asp?authorid=565905&amp;show_refs=1&amp;show_option=1" title="Список публикаций данного автора на портале elibrary.ru">42</a><a href="author_profile.asp?id=565905" title="Анализ публикационной активности автора"><img src="/pic/stat.gif" width="12" height="13" hspace="10" border="0"></a></div></td>
+<td nowrap="" align="center" class="midtext"><div style="margin-top:8px;"><a href="author_refs.asp?authorid=565905&amp;show_option=1" title="Список цитирований работ данного автора из всех публикаций на портале elibrary.ru">11</a></div></td><td nowrap="" align="center" class="midtext select-tr-right"><div style="margin-top:8px;">2</div></td></tr>
+
+
+
+<input type="hidden" id="hid565905" name="hid565905" value="Дрожжина Е Ю">
+
+<tr valign="top" id="a738428" bgcolor="#f5f5f5">
+<td align="center" class="midtext select-tr-left"><font color="#00008f"><div><b>32.</b></div></font><br></td>
+<td align="center"><div><input type="checkbox" name="tid738428" id="tid738428" onclick="if (document.getElementById(&quot;tid738428&quot;).checked) {RowSelect(&quot;a738428&quot;,1)} else {RowSelect(&quot;a738428&quot;,0)}"></div></td>
+<td align="left" class="midtext"><font color="#00008f"><b>Дрожжин&nbsp; Сергей&nbsp; Григорьевич</b></font>
+<br>
+Московский государственный университет технологий и управления им. К.Г. Разумовского (Первый казачий университет) (Москва)
+</td>
+
+
+<td nowrap="" align="right" class="midtext"><div><a href="author_items.asp?authorid=738428&amp;show_refs=1&amp;show_option=1" title="Список публикаций данного автора на портале elibrary.ru">8</a><a href="author_profile.asp?id=738428" title="Анализ публикационной активности автора"><img src="/pic/stat.gif" width="12" height="13" hspace="10" border="0"></a></div></td>
+<td nowrap="" align="center" class="midtext"><div><a href="author_refs.asp?authorid=738428&amp;show_option=1" title="Список цитирований работ данного автора из всех публикаций на портале elibrary.ru">14</a></div></td><td nowrap="" align="center" class="midtext select-tr-right"><div>2</div></td></tr>
+
+
+
+<input type="hidden" id="hid738428" name="hid738428" value="Дрожжин С Г">
+
+<tr valign="top" id="a927922" bgcolor="#f5f5f5">
+<td align="center" class="midtext select-tr-left"><font color="#00008f"><div style="margin-top:8px;"><b>33.</b></div></font><br></td>
+<td align="center"><div style="margin-top:7px;"><input type="checkbox" name="tid927922" id="tid927922" onclick="if (document.getElementById(&quot;tid927922&quot;).checked) {RowSelect(&quot;a927922&quot;,1)} else {RowSelect(&quot;a927922&quot;,0)}"></div></td>
+<td align="left" class="midtext"><font color="#00008f"><b>Дрожжин&nbsp; Сергей&nbsp; Игоревич</b></font><span class="aster" title="Автор зарегистрирован в SCIENCE INDEX">*</span>
+<br>
+Национальный исследовательский университет ИТМО (Санкт-Петербург)
+</td>
+
+
+<td nowrap="" align="right" class="midtext"><div style="margin-top:8px;"><a href="author_items.asp?authorid=927922&amp;show_refs=1&amp;show_option=1" title="Список публикаций данного автора на портале elibrary.ru">7</a><a href="author_profile.asp?id=927922" title="Анализ публикационной активности автора"><img src="/pic/stat.gif" width="12" height="13" hspace="10" border="0"></a></div></td>
+<td nowrap="" align="center" class="midtext"><div style="margin-top:8px;"><a href="author_refs.asp?authorid=927922&amp;show_option=1" title="Список цитирований работ данного автора из всех публикаций на портале elibrary.ru">15</a></div></td><td nowrap="" align="center" class="midtext select-tr-right"><div style="margin-top:8px;">2</div></td></tr>
+
+
+
+<input type="hidden" id="hid927922" name="hid927922" value="Дрожжин С И">
+
+<tr valign="top" id="a108344" bgcolor="#f5f5f5">
+<td align="center" class="midtext select-tr-left"><font color="#00008f"><div><b>34.</b></div></font><br></td>
+<td align="center"><div><input type="checkbox" name="tid108344" id="tid108344" onclick="if (document.getElementById(&quot;tid108344&quot;).checked) {RowSelect(&quot;a108344&quot;,1)} else {RowSelect(&quot;a108344&quot;,0)}"></div></td>
+<td align="left" class="midtext"><font color="#00008f"><b>Дрожжин&nbsp; Сергей&nbsp; Вячеславович</b></font>
+<br>
+Московский государственный университет им. М.В. Ломоносова (Москва)
+</td>
+
+
+<td nowrap="" align="right" class="midtext"><div><a href="author_items.asp?authorid=108344&amp;show_refs=1&amp;show_option=1" title="Список публикаций данного автора на портале elibrary.ru">10</a><a href="author_profile.asp?id=108344" title="Анализ публикационной активности автора"><img src="/pic/stat.gif" width="12" height="13" hspace="10" border="0"></a></div></td>
+<td nowrap="" align="center" class="midtext"><div><a href="author_refs.asp?authorid=108344&amp;show_option=1" title="Список цитирований работ данного автора из всех публикаций на портале elibrary.ru">15</a></div></td><td nowrap="" align="center" class="midtext select-tr-right"><div>2</div></td></tr>
+
+
+
+<input type="hidden" id="hid108344" name="hid108344" value="Дрожжин С В">
+
+<tr valign="top" id="a1238000" bgcolor="#f5f5f5">
+<td align="center" class="midtext select-tr-left"><font color="#00008f"><div style="margin-top:8px;"><b>35.</b></div></font><br></td>
+<td align="center"><div style="margin-top:7px;"><input type="checkbox" name="tid1238000" id="tid1238000" onclick="if (document.getElementById(&quot;tid1238000&quot;).checked) {RowSelect(&quot;a1238000&quot;,1)} else {RowSelect(&quot;a1238000&quot;,0)}"></div></td>
+<td align="left" class="midtext"><font color="#00008f"><b>Дрожжин&nbsp; Сергей&nbsp; Вячеславович</b></font><span class="aster" title="Автор зарегистрирован в SCIENCE INDEX">*</span>
+<br>
+ООО "ИСТ-ВЕСТ ТЕХНОЛОДЖИС" (Москва)
+</td>
+
+
+<td nowrap="" align="right" class="midtext"><div style="margin-top:8px;"><a href="author_items.asp?authorid=1238000&amp;show_refs=1&amp;show_option=1" title="Список публикаций данного автора на портале elibrary.ru">10</a><a href="author_profile.asp?id=1238000" title="Анализ публикационной активности автора"><img src="/pic/stat.gif" width="12" height="13" hspace="10" border="0"></a></div></td>
+<td nowrap="" align="center" class="midtext"><div style="margin-top:8px;"><a href="author_refs.asp?authorid=1238000&amp;show_option=1" title="Список цитирований работ данного автора из всех публикаций на портале elibrary.ru">16</a></div></td><td nowrap="" align="center" class="midtext select-tr-right"><div style="margin-top:8px;">2</div></td></tr>
+
+
+
+<input type="hidden" id="hid1238000" name="hid1238000" value="Дрожжин С В">
+
+<tr valign="top" id="a314709" bgcolor="#f5f5f5">
+<td align="center" class="midtext select-tr-left"><font color="#00008f"><div style="margin-top:8px;"><b>36.</b></div></font><br></td>
+<td align="center"><div style="margin-top:7px;"><input type="checkbox" name="tid314709" id="tid314709" onclick="if (document.getElementById(&quot;tid314709&quot;).checked) {RowSelect(&quot;a314709&quot;,1)} else {RowSelect(&quot;a314709&quot;,0)}"></div></td>
+<td align="left" class="midtext"><font color="#00008f"><b>Дрожжин&nbsp; Олег&nbsp; Сергеевич</b></font><span class="aster" title="Автор зарегистрирован в SCIENCE INDEX">*</span>
+<br>
+Всероссийский научно-исследовательский ветеринарный институт патологии, фармакологии и терапии (Воронеж)
+</td>
+
+
+<td nowrap="" align="right" class="midtext"><div style="margin-top:8px;"><a href="author_items.asp?authorid=314709&amp;show_refs=1&amp;show_option=1" title="Список публикаций данного автора на портале elibrary.ru">33</a><a href="author_profile.asp?id=314709" title="Анализ публикационной активности автора"><img src="/pic/stat.gif" width="12" height="13" hspace="10" border="0"></a></div></td>
+<td nowrap="" align="center" class="midtext"><div style="margin-top:8px;"><a href="author_refs.asp?authorid=314709&amp;show_option=1" title="Список цитирований работ данного автора из всех публикаций на портале elibrary.ru">17</a></div></td><td nowrap="" align="center" class="midtext select-tr-right"><div style="margin-top:8px;">2</div></td></tr>
+
+
+
+<input type="hidden" id="hid314709" name="hid314709" value="Дрожжин О С">
+
+<tr valign="top" id="a732545" bgcolor="#f5f5f5">
+<td align="center" class="midtext select-tr-left"><font color="#00008f"><div style="margin-top:8px;"><b>37.</b></div></font><br></td>
+<td align="center"><div style="margin-top:7px;"><input type="checkbox" name="tid732545" id="tid732545" onclick="if (document.getElementById(&quot;tid732545&quot;).checked) {RowSelect(&quot;a732545&quot;,1)} else {RowSelect(&quot;a732545&quot;,0)}"></div></td>
+<td align="left" class="midtext"><font color="#00008f"><b>Дрожжина&nbsp; Инна&nbsp; Валерьевна</b></font><span class="aster" title="Автор зарегистрирован в SCIENCE INDEX">*</span>
+<br>
+Московский университет им. С.Ю. Витте (Москва)
+</td>
+
+
+<td nowrap="" align="right" class="midtext"><div style="margin-top:8px;"><a href="author_items.asp?authorid=732545&amp;show_refs=1&amp;show_option=1" title="Список публикаций данного автора на портале elibrary.ru">6</a><a href="author_profile.asp?id=732545" title="Анализ публикационной активности автора"><img src="/pic/stat.gif" width="12" height="13" hspace="10" border="0"></a></div></td>
+<td nowrap="" align="center" class="midtext"><div style="margin-top:8px;"><a href="author_refs.asp?authorid=732545&amp;show_option=1" title="Список цитирований работ данного автора из всех публикаций на портале elibrary.ru">23</a></div></td><td nowrap="" align="center" class="midtext select-tr-right"><div style="margin-top:8px;">2</div></td></tr>
+
+
+
+<input type="hidden" id="hid732545" name="hid732545" value="Дрожжина И В">
+
+<tr valign="top" id="a96715" bgcolor="#f5f5f5">
+<td align="center" class="midtext select-tr-left"><font color="#00008f"><div><b>38.</b></div></font><br></td>
+<td align="center"><div><input type="checkbox" name="tid96715" id="tid96715" onclick="if (document.getElementById(&quot;tid96715&quot;).checked) {RowSelect(&quot;a96715&quot;,1)} else {RowSelect(&quot;a96715&quot;,0)}"></div></td>
+<td align="left" class="midtext"><font color="#00008f"><b>Дрожжина&nbsp; Татьяна&nbsp; Сергеевна</b></font>
+<br>
+Московский государственный университет им. М.В. Ломоносова (Москва)
+</td>
+
+
+<td nowrap="" align="right" class="midtext"><div><a href="author_items.asp?authorid=96715&amp;show_refs=1&amp;show_option=1" title="Список публикаций данного автора на портале elibrary.ru">8</a><a href="author_profile.asp?id=96715" title="Анализ публикационной активности автора"><img src="/pic/stat.gif" width="12" height="13" hspace="10" border="0"></a></div></td>
+<td nowrap="" align="center" class="midtext"><div><a href="author_refs.asp?authorid=96715&amp;show_option=1" title="Список цитирований работ данного автора из всех публикаций на портале elibrary.ru">39</a></div></td><td nowrap="" align="center" class="midtext select-tr-right"><div>2</div></td></tr>
+
+
+
+<input type="hidden" id="hid96715" name="hid96715" value="Дрожжина Т С">
+
+<tr valign="top" id="a780040" bgcolor="#f5f5f5">
+<td align="center" class="midtext select-tr-left"><font color="#00008f"><div style="margin-top:8px;"><b>39.</b></div></font><br></td>
+<td align="center"><div style="margin-top:7px;"><input type="checkbox" name="tid780040" id="tid780040" onclick="if (document.getElementById(&quot;tid780040&quot;).checked) {RowSelect(&quot;a780040&quot;,1)} else {RowSelect(&quot;a780040&quot;,0)}"></div></td>
+<td align="left" class="midtext"><font color="#00008f"><b>Дрожжин&nbsp; Михаил&nbsp; Анатольевич</b></font><span class="aster" title="Автор зарегистрирован в SCIENCE INDEX">*</span>
+<br>
+Сызранское высшее военное авиационное училище летчиков (Сызрань)
+</td>
+
+
+<td nowrap="" align="right" class="midtext"><div style="margin-top:8px;"><a href="author_items.asp?authorid=780040&amp;show_refs=1&amp;show_option=1" title="Список публикаций данного автора на портале elibrary.ru">9</a><a href="author_profile.asp?id=780040" title="Анализ публикационной активности автора"><img src="/pic/stat.gif" width="12" height="13" hspace="10" border="0"></a></div></td>
+<td nowrap="" align="center" class="midtext"><div style="margin-top:8px;"><a href="author_refs.asp?authorid=780040&amp;show_option=1" title="Список цитирований работ данного автора из всех публикаций на портале elibrary.ru">18</a></div></td><td nowrap="" align="center" class="midtext select-tr-right"><div style="margin-top:8px;">3</div></td></tr>
+
+
+
+<input type="hidden" id="hid780040" name="hid780040" value="Дрожжин М А">
+
+<tr valign="top" id="a1010315" bgcolor="#f5f5f5">
+<td align="center" class="midtext select-tr-left"><font color="#00008f"><div style="margin-top:8px;"><b>40.</b></div></font><br></td>
+<td align="center"><div style="margin-top:7px;"><input type="checkbox" name="tid1010315" id="tid1010315" onclick="if (document.getElementById(&quot;tid1010315&quot;).checked) {RowSelect(&quot;a1010315&quot;,1)} else {RowSelect(&quot;a1010315&quot;,0)}"></div></td>
+<td align="left" class="midtext"><font color="#00008f"><b>Дрожжин&nbsp; Александр&nbsp; Юрьевич</b></font><span class="aster" title="Автор зарегистрирован в SCIENCE INDEX">*</span>
+<br>
+Национальный медико-хирургический Центр им. Н.И. Пирогова (Москва)
+</td>
+
+
+<td nowrap="" align="right" class="midtext"><div style="margin-top:8px;"><a href="author_items.asp?authorid=1010315&amp;show_refs=1&amp;show_option=1" title="Список публикаций данного автора на портале elibrary.ru">9</a><a href="author_profile.asp?id=1010315" title="Анализ публикационной активности автора"><img src="/pic/stat.gif" width="12" height="13" hspace="10" border="0"></a></div></td>
+<td nowrap="" align="center" class="midtext"><div style="margin-top:8px;"><a href="author_refs.asp?authorid=1010315&amp;show_option=1" title="Список цитирований работ данного автора из всех публикаций на портале elibrary.ru">24</a></div></td><td nowrap="" align="center" class="midtext select-tr-right"><div style="margin-top:8px;">3</div></td></tr>
+
+
+
+<input type="hidden" id="hid1010315" name="hid1010315" value="Дрожжин А Ю">
+
+<tr valign="top" id="a740106" bgcolor="#f5f5f5">
+<td align="center" class="midtext select-tr-left"><font color="#00008f"><div style="margin-top:8px;"><b>41.</b></div></font><br></td>
+<td align="center"><div style="margin-top:7px;"><input type="checkbox" name="tid740106" id="tid740106" onclick="if (document.getElementById(&quot;tid740106&quot;).checked) {RowSelect(&quot;a740106&quot;,1)} else {RowSelect(&quot;a740106&quot;,0)}"></div></td>
+<td align="left" class="midtext"><font color="#00008f"><b>Дрожжин&nbsp; Никита&nbsp; Александрович</b></font><span class="aster" title="Автор зарегистрирован в SCIENCE INDEX">*</span>
+<br>
+Академия гражданской защиты МЧС России им. генерал-лейтенанта Д.И. Михайлика (Химки)
+</td>
+
+
+<td nowrap="" align="right" class="midtext"><div style="margin-top:8px;"><a href="author_items.asp?authorid=740106&amp;show_refs=1&amp;show_option=1" title="Список публикаций данного автора на портале elibrary.ru">28</a><a href="author_profile.asp?id=740106" title="Анализ публикационной активности автора"><img src="/pic/stat.gif" width="12" height="13" hspace="10" border="0"></a></div></td>
+<td nowrap="" align="center" class="midtext"><div style="margin-top:8px;"><a href="author_refs.asp?authorid=740106&amp;show_option=1" title="Список цитирований работ данного автора из всех публикаций на портале elibrary.ru">35</a></div></td><td nowrap="" align="center" class="midtext select-tr-right"><div style="margin-top:8px;">3</div></td></tr>
+
+
+
+<input type="hidden" id="hid740106" name="hid740106" value="Дрожжин Н А">
+
+<tr valign="top" id="a314716" bgcolor="#f5f5f5">
+<td align="center" class="midtext select-tr-left"><font color="#00008f"><div><b>42.</b></div></font><br></td>
+<td align="center"><div><input type="checkbox" name="tid314716" id="tid314716" onclick="if (document.getElementById(&quot;tid314716&quot;).checked) {RowSelect(&quot;a314716&quot;,1)} else {RowSelect(&quot;a314716&quot;,0)}"></div></td>
+<td align="left" class="midtext"><font color="#00008f"><b>Дрожжина&nbsp; Светлана&nbsp; Алексеевна</b></font>
+<br>
+Майкопский государственный технологический университет (Майкоп)
+</td>
+
+
+<td nowrap="" align="right" class="midtext"><div><a href="author_items.asp?authorid=314716&amp;show_refs=1&amp;show_option=1" title="Список публикаций данного автора на портале elibrary.ru">10</a><a href="author_profile.asp?id=314716" title="Анализ публикационной активности автора"><img src="/pic/stat.gif" width="12" height="13" hspace="10" border="0"></a></div></td>
+<td nowrap="" align="center" class="midtext"><div><a href="author_refs.asp?authorid=314716&amp;show_option=1" title="Список цитирований работ данного автора из всех публикаций на портале elibrary.ru">38</a></div></td><td nowrap="" align="center" class="midtext select-tr-right"><div>3</div></td></tr>
+
+
+
+<input type="hidden" id="hid314716" name="hid314716" value="Дрожжина С А">
+
+<tr valign="top" id="a522786" bgcolor="#f5f5f5">
+<td align="center" class="midtext select-tr-left"><font color="#00008f"><div><b>43.</b></div></font><br></td>
+<td align="center"><div><input type="checkbox" name="tid522786" id="tid522786" onclick="if (document.getElementById(&quot;tid522786&quot;).checked) {RowSelect(&quot;a522786&quot;,1)} else {RowSelect(&quot;a522786&quot;,0)}"></div></td>
+<td align="left" class="midtext"><font color="#00008f"><b>Дрожжин&nbsp; Василий&nbsp; Алексеевич</b></font>
+<br>
+Санкт-Петербургский университет МВД РФ (Санкт-Петербург)
+</td>
+
+
+<td nowrap="" align="right" class="midtext"><div><a href="author_items.asp?authorid=522786&amp;show_refs=1&amp;show_option=1" title="Список публикаций данного автора на портале elibrary.ru">9</a><a href="author_profile.asp?id=522786" title="Анализ публикационной активности автора"><img src="/pic/stat.gif" width="12" height="13" hspace="10" border="0"></a></div></td>
+<td nowrap="" align="center" class="midtext"><div><a href="author_refs.asp?authorid=522786&amp;show_option=1" title="Список цитирований работ данного автора из всех публикаций на портале elibrary.ru">104</a></div></td><td nowrap="" align="center" class="midtext select-tr-right"><div>3</div></td></tr>
+
+
+
+<input type="hidden" id="hid522786" name="hid522786" value="Дрожжин В А">
+
+<tr valign="top" id="a1074258" bgcolor="#f5f5f5">
+<td align="center" class="midtext select-tr-left"><font color="#00008f"><div style="margin-top:8px;"><b>44.</b></div></font><br></td>
+<td align="center"><div style="margin-top:7px;"><input type="checkbox" name="tid1074258" id="tid1074258" onclick="if (document.getElementById(&quot;tid1074258&quot;).checked) {RowSelect(&quot;a1074258&quot;,1)} else {RowSelect(&quot;a1074258&quot;,0)}"></div></td>
+<td align="left" class="midtext"><font color="#00008f"><b>Дрожжин&nbsp; Роман&nbsp; Сергеевич</b></font><span class="aster" title="Автор зарегистрирован в SCIENCE INDEX">*</span>
+<br>
+Юго-Западный государственный университет (Курск)
+</td>
+
+
+<td nowrap="" align="right" class="midtext"><div style="margin-top:8px;"><a href="author_items.asp?authorid=1074258&amp;show_refs=1&amp;show_option=1" title="Список публикаций данного автора на портале elibrary.ru">7</a><a href="author_profile.asp?id=1074258" title="Анализ публикационной активности автора"><img src="/pic/stat.gif" width="12" height="13" hspace="10" border="0"></a></div></td>
+<td nowrap="" align="center" class="midtext"><div style="margin-top:8px;"><a href="author_refs.asp?authorid=1074258&amp;show_option=1" title="Список цитирований работ данного автора из всех публикаций на портале elibrary.ru">117</a></div></td><td nowrap="" align="center" class="midtext select-tr-right"><div style="margin-top:8px;">3</div></td></tr>
+
+
+
+<input type="hidden" id="hid1074258" name="hid1074258" value="Дрожжин Р С">
+
+<tr valign="top" id="a1101573" bgcolor="#f5f5f5">
+<td align="center" class="midtext select-tr-left"><font color="#00008f"><div style="margin-top:8px;"><b>45.</b></div></font><br></td>
+<td align="center"><div style="margin-top:7px;"><input type="checkbox" name="tid1101573" id="tid1101573" onclick="if (document.getElementById(&quot;tid1101573&quot;).checked) {RowSelect(&quot;a1101573&quot;,1)} else {RowSelect(&quot;a1101573&quot;,0)}"></div></td>
+<td align="left" class="midtext"><font color="#00008f"><b>Дрожжин&nbsp; Роман&nbsp; Александрович</b></font><span class="aster" title="Автор зарегистрирован в SCIENCE INDEX">*</span>
+<br>
+Брянский государственный университет им. акад. И.Г. Петровского (Брянск)
+</td>
+
+
+<td nowrap="" align="right" class="midtext"><div style="margin-top:8px;"><a href="author_items.asp?authorid=1101573&amp;show_refs=1&amp;show_option=1" title="Список публикаций данного автора на портале elibrary.ru">57</a><a href="author_profile.asp?id=1101573" title="Анализ публикационной активности автора"><img src="/pic/stat.gif" width="12" height="13" hspace="10" border="0"></a></div></td>
+<td nowrap="" align="center" class="midtext"><div style="margin-top:8px;"><a href="author_refs.asp?authorid=1101573&amp;show_option=1" title="Список цитирований работ данного автора из всех публикаций на портале elibrary.ru">184</a></div></td><td nowrap="" align="center" class="midtext select-tr-right"><div style="margin-top:8px;">4</div></td></tr>
+
+
+
+<input type="hidden" id="hid1101573" name="hid1101573" value="Дрожжин Р А">
+
+<tr valign="top" id="a101095" bgcolor="#f5f5f5">
+<td align="center" class="midtext select-tr-left"><font color="#00008f"><div><b>46.</b></div></font><br></td>
+<td align="center"><div><input type="checkbox" name="tid101095" id="tid101095" onclick="if (document.getElementById(&quot;tid101095&quot;).checked) {RowSelect(&quot;a101095&quot;,1)} else {RowSelect(&quot;a101095&quot;,0)}"></div></td>
+<td align="left" class="midtext"><font color="#00008f"><b>Дрожжина&nbsp; Наталья&nbsp; Алексеевна</b></font>
+<br>
+Институт экспериментальной минералогии им. акад. Д.С. Коржинского РАН (Черноголовка)
+</td>
+
+
+<td nowrap="" align="right" class="midtext"><div><a href="author_items.asp?authorid=101095&amp;show_refs=1&amp;show_option=1" title="Список публикаций данного автора на портале elibrary.ru">14</a><a href="author_profile.asp?id=101095" title="Анализ публикационной активности автора"><img src="/pic/stat.gif" width="12" height="13" hspace="10" border="0"></a></div></td>
+<td nowrap="" align="center" class="midtext"><div><a href="author_refs.asp?authorid=101095&amp;show_option=1" title="Список цитирований работ данного автора из всех публикаций на портале elibrary.ru">132</a></div></td><td nowrap="" align="center" class="midtext select-tr-right"><div>5</div></td></tr>
+
+
+
+<input type="hidden" id="hid101095" name="hid101095" value="Дрожжина Н А">
+
+<tr valign="top" id="a1107194" bgcolor="#f5f5f5">
+<td align="center" class="midtext select-tr-left"><font color="#00008f"><div style="margin-top:8px;"><b>47.</b></div></font><br></td>
+<td align="center"><div style="margin-top:7px;"><input type="checkbox" name="tid1107194" id="tid1107194" onclick="if (document.getElementById(&quot;tid1107194&quot;).checked) {RowSelect(&quot;a1107194&quot;,1)} else {RowSelect(&quot;a1107194&quot;,0)}"></div></td>
+<td align="left" class="midtext"><font color="#00008f"><b>Дрожжина&nbsp; Светлана&nbsp; Владимировна</b></font><span class="aster" title="Автор зарегистрирован в SCIENCE INDEX">*</span>
+<br>
+Донецкий национальный университет экономики и торговли им. М. Туган-Барановского (Донецк)
+</td>
+
+
+<td nowrap="" align="right" class="midtext"><div style="margin-top:8px;"><a href="author_items.asp?authorid=1107194&amp;show_refs=1&amp;show_option=1" title="Список публикаций данного автора на портале elibrary.ru">59</a><a href="author_profile.asp?id=1107194" title="Анализ публикационной активности автора"><img src="/pic/stat.gif" width="12" height="13" hspace="10" border="0"></a></div></td>
+<td nowrap="" align="center" class="midtext"><div style="margin-top:8px;"><a href="author_refs.asp?authorid=1107194&amp;show_option=1" title="Список цитирований работ данного автора из всех публикаций на портале elibrary.ru">260</a></div></td><td nowrap="" align="center" class="midtext select-tr-right"><div style="margin-top:8px;">5</div></td></tr>
+
+
+
+<input type="hidden" id="hid1107194" name="hid1107194" value="Дрожжина С В">
+
+<tr valign="top" id="a605817" bgcolor="#f5f5f5">
+<td align="center" class="midtext select-tr-left"><font color="#00008f"><div style="margin-top:8px;"><b>48.</b></div></font><br></td>
+<td align="center"><div style="margin-top:7px;"><input type="checkbox" name="tid605817" id="tid605817" onclick="if (document.getElementById(&quot;tid605817&quot;).checked) {RowSelect(&quot;a605817&quot;,1)} else {RowSelect(&quot;a605817&quot;,0)}"></div></td>
+<td align="left" class="midtext"><font color="#00008f"><b>Дрожжин&nbsp; Виктор&nbsp; Михайлович</b></font><span class="aster" title="Автор зарегистрирован в SCIENCE INDEX">*</span>
+<br>
+Всероссийский научно-исследовательский институт молочной промышленности (Москва)
+</td>
+
+
+<td nowrap="" align="right" class="midtext"><div style="margin-top:8px;"><a href="author_items.asp?authorid=605817&amp;show_refs=1&amp;show_option=1" title="Список публикаций данного автора на портале elibrary.ru">42</a><a href="author_profile.asp?id=605817" title="Анализ публикационной активности автора"><img src="/pic/stat.gif" width="12" height="13" hspace="10" border="0"></a></div></td>
+<td nowrap="" align="center" class="midtext"><div style="margin-top:8px;"><a href="author_refs.asp?authorid=605817&amp;show_option=1" title="Список цитирований работ данного автора из всех публикаций на портале elibrary.ru">127</a></div></td><td nowrap="" align="center" class="midtext select-tr-right"><div style="margin-top:8px;">6</div></td></tr>
+
+
+
+<input type="hidden" id="hid605817" name="hid605817" value="Дрожжин В М">
+
+<tr valign="top" id="a764391" bgcolor="#f5f5f5">
+<td align="center" class="midtext select-tr-left"><font color="#00008f"><div style="margin-top:8px;"><b>49.</b></div></font><br></td>
+<td align="center"><div style="margin-top:7px;"><input type="checkbox" name="tid764391" id="tid764391" onclick="if (document.getElementById(&quot;tid764391&quot;).checked) {RowSelect(&quot;a764391&quot;,1)} else {RowSelect(&quot;a764391&quot;,0)}"></div></td>
+<td align="left" class="midtext"><font color="#00008f"><b>Дрожжина&nbsp; Инна&nbsp; Викторовна</b></font><span class="aster" title="Автор зарегистрирован в SCIENCE INDEX">*</span>
+<br>
+Сибирский государственный университет путей сообщения (Новосибирск)
+</td>
+
+
+<td nowrap="" align="right" class="midtext"><div style="margin-top:8px;"><a href="author_items.asp?authorid=764391&amp;show_refs=1&amp;show_option=1" title="Список публикаций данного автора на портале elibrary.ru">73</a><a href="author_profile.asp?id=764391" title="Анализ публикационной активности автора"><img src="/pic/stat.gif" width="12" height="13" hspace="10" border="0"></a></div></td>
+<td nowrap="" align="center" class="midtext"><div style="margin-top:8px;"><a href="author_refs.asp?authorid=764391&amp;show_option=1" title="Список цитирований работ данного автора из всех публикаций на портале elibrary.ru">164</a></div></td><td nowrap="" align="center" class="midtext select-tr-right"><div style="margin-top:8px;">6</div></td></tr>
+
+
+
+<input type="hidden" id="hid764391" name="hid764391" value="Дрожжина И В">
+
+<tr valign="top" id="a144162" bgcolor="#f5f5f5">
+<td align="center" class="midtext select-tr-left"><font color="#00008f"><div><b>50.</b></div></font><br></td>
+<td align="center"><div><input type="checkbox" name="tid144162" id="tid144162" onclick="if (document.getElementById(&quot;tid144162&quot;).checked) {RowSelect(&quot;a144162&quot;,1)} else {RowSelect(&quot;a144162&quot;,0)}"></div></td>
+<td align="left" class="midtext"><font color="#00008f"><b>Дрожжин&nbsp; Евгений&nbsp; Васильевич</b></font>
+<br>
+Сургутский государственный университет (Сургут)
+</td>
+
+
+<td nowrap="" align="right" class="midtext"><div><a href="author_items.asp?authorid=144162&amp;show_refs=1&amp;show_option=1" title="Список публикаций данного автора на портале elibrary.ru">87</a><a href="author_profile.asp?id=144162" title="Анализ публикационной активности автора"><img src="/pic/stat.gif" width="12" height="13" hspace="10" border="0"></a></div></td>
+<td nowrap="" align="center" class="midtext"><div><a href="author_refs.asp?authorid=144162&amp;show_option=1" title="Список цитирований работ данного автора из всех публикаций на портале elibrary.ru">187</a></div></td><td nowrap="" align="center" class="midtext select-tr-right"><div>6</div></td></tr>
+
+
+
+<input type="hidden" id="hid144162" name="hid144162" value="Дрожжин Е В">
+
+<tr valign="top" id="a314714" bgcolor="#f5f5f5">
+<td align="center" class="midtext select-tr-left"><font color="#00008f"><div style="margin-top:8px;"><b>51.</b></div></font><br></td>
+<td align="center"><div style="margin-top:7px;"><input type="checkbox" name="tid314714" id="tid314714" onclick="if (document.getElementById(&quot;tid314714&quot;).checked) {RowSelect(&quot;a314714&quot;,1)} else {RowSelect(&quot;a314714&quot;,0)}"></div></td>
+<td align="left" class="midtext"><font color="#00008f"><b>Дрожжина&nbsp; (Васькина)&nbsp; Наталья&nbsp; Агафоновна</b></font><span class="aster" title="Автор зарегистрирован в SCIENCE INDEX">*</span>
+<br>
+Российский университет дружбы народов им. П. Лумумбы (Москва)
+</td>
+
+
+<td nowrap="" align="right" class="midtext"><div style="margin-top:8px;"><a href="author_items.asp?authorid=314714&amp;show_refs=1&amp;show_option=1" title="Список публикаций данного автора на портале elibrary.ru">72</a><a href="author_profile.asp?id=314714" title="Анализ публикационной активности автора"><img src="/pic/stat.gif" width="12" height="13" hspace="10" border="0"></a></div></td>
+<td nowrap="" align="center" class="midtext"><div style="margin-top:8px;"><a href="author_refs.asp?authorid=314714&amp;show_option=1" title="Список цитирований работ данного автора из всех публикаций на портале elibrary.ru">276</a></div></td><td nowrap="" align="center" class="midtext select-tr-right"><div style="margin-top:8px;">7</div></td></tr>
+
+
+
+<input type="hidden" id="hid314714" name="hid314714" value="Дрожжина Н А">
+
+<tr valign="top" id="a162004" bgcolor="#f5f5f5">
+<td align="center" class="midtext select-tr-left"><font color="#00008f"><div><b>52.</b></div></font><br></td>
+<td align="center"><div><input type="checkbox" name="tid162004" id="tid162004" onclick="if (document.getElementById(&quot;tid162004&quot;).checked) {RowSelect(&quot;a162004&quot;,1)} else {RowSelect(&quot;a162004&quot;,0)}"></div></td>
+<td align="left" class="midtext"><font color="#00008f"><b>Дрожжин&nbsp; Алексей&nbsp; Игоревич</b></font>
+<br>
+Московский государственный университет им. М.В. Ломоносова (Москва)
+</td>
+
+
+<td nowrap="" align="right" class="midtext"><div><a href="author_items.asp?authorid=162004&amp;show_refs=1&amp;show_option=1" title="Список публикаций данного автора на портале elibrary.ru">103</a><a href="author_profile.asp?id=162004" title="Анализ публикационной активности автора"><img src="/pic/stat.gif" width="12" height="13" hspace="10" border="0"></a></div></td>
+<td nowrap="" align="center" class="midtext"><div><a href="author_refs.asp?authorid=162004&amp;show_option=1" title="Список цитирований работ данного автора из всех публикаций на портале elibrary.ru">308</a></div></td><td nowrap="" align="center" class="midtext select-tr-right"><div>7</div></td></tr>
+
+
+
+<input type="hidden" id="hid162004" name="hid162004" value="Дрожжин А И">
+
+<tr valign="top" id="a149533" bgcolor="#f5f5f5">
+<td align="center" class="midtext select-tr-left"><font color="#00008f"><div style="margin-top:8px;"><b>53.</b></div></font><br></td>
+<td align="center"><div style="margin-top:7px;"><input type="checkbox" name="tid149533" id="tid149533" onclick="if (document.getElementById(&quot;tid149533&quot;).checked) {RowSelect(&quot;a149533&quot;,1)} else {RowSelect(&quot;a149533&quot;,0)}"></div></td>
+<td align="left" class="midtext"><font color="#00008f"><b>Дрожжина&nbsp; (Морозова)&nbsp; Валентина&nbsp; Владимировна</b></font><span class="aster" title="Автор зарегистрирован в SCIENCE INDEX">*</span>
+<br>
+Национальный медицинский исследовательский центр радиологии Минздрава России (Москва)
+</td>
+
+
+<td nowrap="" align="right" class="midtext"><div style="margin-top:8px;"><a href="author_items.asp?authorid=149533&amp;show_refs=1&amp;show_option=1" title="Список публикаций данного автора на портале elibrary.ru">78</a><a href="author_profile.asp?id=149533" title="Анализ публикационной активности автора"><img src="/pic/stat.gif" width="12" height="13" hspace="10" border="0"></a></div></td>
+<td nowrap="" align="center" class="midtext"><div style="margin-top:8px;"><a href="author_refs.asp?authorid=149533&amp;show_option=1" title="Список цитирований работ данного автора из всех публикаций на портале elibrary.ru">241</a></div></td><td nowrap="" align="center" class="midtext select-tr-right"><div style="margin-top:8px;">8</div></td></tr>
+
+
+
+<input type="hidden" id="hid149533" name="hid149533" value="Дрожжина В В">
+
+<tr valign="top" id="a314713" bgcolor="#f5f5f5">
+<td align="center" class="midtext select-tr-left"><font color="#00008f"><div style="margin-top:8px;"><b>54.</b></div></font><br></td>
+<td align="center"><div style="margin-top:7px;"><input type="checkbox" name="tid314713" id="tid314713" onclick="if (document.getElementById(&quot;tid314713&quot;).checked) {RowSelect(&quot;a314713&quot;,1)} else {RowSelect(&quot;a314713&quot;,0)}"></div></td>
+<td align="left" class="midtext"><font color="#00008f"><b>Дрожжина&nbsp; Марина&nbsp; Николаевна</b></font><span class="aster" title="Автор зарегистрирован в SCIENCE INDEX">*</span>
+<br>
+Новосибирская государственная консерватория им. М.И. Глинки (Новосибирск)
+</td>
+
+
+<td nowrap="" align="right" class="midtext"><div style="margin-top:8px;"><a href="author_items.asp?authorid=314713&amp;show_refs=1&amp;show_option=1" title="Список публикаций данного автора на портале elibrary.ru">72</a><a href="author_profile.asp?id=314713" title="Анализ публикационной активности автора"><img src="/pic/stat.gif" width="12" height="13" hspace="10" border="0"></a></div></td>
+<td nowrap="" align="center" class="midtext"><div style="margin-top:8px;"><a href="author_refs.asp?authorid=314713&amp;show_option=1" title="Список цитирований работ данного автора из всех публикаций на портале elibrary.ru">364</a></div></td><td nowrap="" align="center" class="midtext select-tr-right"><div style="margin-top:8px;">8</div></td></tr>
+
+
+
+<input type="hidden" id="hid314713" name="hid314713" value="Дрожжина М Н">
+
+<tr valign="top" id="a1132834" bgcolor="#f5f5f5">
+<td align="center" class="midtext select-tr-left"><font color="#00008f"><div><b>55.</b></div></font><br></td>
+<td align="center"><div><input type="checkbox" name="tid1132834" id="tid1132834" onclick="if (document.getElementById(&quot;tid1132834&quot;).checked) {RowSelect(&quot;a1132834&quot;,1)} else {RowSelect(&quot;a1132834&quot;,0)}"></div></td>
+<td align="left" class="midtext"><font color="#00008f"><b>Дрожжина&nbsp; Елена&nbsp; Викторовна</b></font>
+<br>
+Институт Европы РАН (Москва)
+</td>
+
+
+<td nowrap="" align="right" class="midtext"><div><a href="author_items.asp?authorid=1132834&amp;show_refs=1&amp;show_option=1" title="Список публикаций данного автора на портале elibrary.ru">53</a><a href="author_profile.asp?id=1132834" title="Анализ публикационной активности автора"><img src="/pic/stat.gif" width="12" height="13" hspace="10" border="0"></a></div></td>
+<td nowrap="" align="center" class="midtext"><div><a href="author_refs.asp?authorid=1132834&amp;show_option=1" title="Список цитирований работ данного автора из всех публикаций на портале elibrary.ru">230</a></div></td><td nowrap="" align="center" class="midtext select-tr-right"><div>9</div></td></tr>
+
+
+
+<input type="hidden" id="hid1132834" name="hid1132834" value="Дрожжина Е В">
+
+<tr valign="top" id="a4626" bgcolor="#f5f5f5">
+<td align="center" class="midtext select-tr-left"><font color="#00008f"><div><b>56.</b></div></font><br></td>
+<td align="center"><div><input type="checkbox" name="tid4626" id="tid4626" onclick="if (document.getElementById(&quot;tid4626&quot;).checked) {RowSelect(&quot;a4626&quot;,1)} else {RowSelect(&quot;a4626&quot;,0)}"></div></td>
+<td align="left" class="midtext"><font color="#00008f"><b>Дрожжинов&nbsp; Юрий&nbsp; Николаевич</b></font>
+<br>
+Математический институт им. В.А. Стеклова РАН (Москва)
+</td>
+
+
+<td nowrap="" align="right" class="midtext"><div><a href="author_items.asp?authorid=4626&amp;show_refs=1&amp;show_option=1" title="Список публикаций данного автора на портале elibrary.ru">76</a><a href="author_profile.asp?id=4626" title="Анализ публикационной активности автора"><img src="/pic/stat.gif" width="12" height="13" hspace="10" border="0"></a></div></td>
+<td nowrap="" align="center" class="midtext"><div><a href="author_refs.asp?authorid=4626&amp;show_option=1" title="Список цитирований работ данного автора из всех публикаций на портале elibrary.ru">421</a></div></td><td nowrap="" align="center" class="midtext select-tr-right"><div>9</div></td></tr>
+
+
+
+<input type="hidden" id="hid4626" name="hid4626" value="Дрожжинов Ю Н">
+
+<tr valign="top" id="a314708" bgcolor="#f5f5f5">
+<td align="center" class="midtext select-tr-left"><font color="#00008f"><div style="margin-top:8px;"><b>57.</b></div></font><br></td>
+<td align="center"><div style="margin-top:7px;"><input type="checkbox" name="tid314708" id="tid314708" onclick="if (document.getElementById(&quot;tid314708&quot;).checked) {RowSelect(&quot;a314708&quot;,1)} else {RowSelect(&quot;a314708&quot;,0)}"></div></td>
+<td align="left" class="midtext"><font color="#00008f"><b>Дрожжин&nbsp; Константин&nbsp; Николаевич</b></font><span class="aster" title="Автор зарегистрирован в SCIENCE INDEX">*</span>
+<br>
+Рязанский государственный агротехнологический университет им. П.А. Костычева (Рязань)
+</td>
+
+
+<td nowrap="" align="right" class="midtext"><div style="margin-top:8px;"><a href="author_items.asp?authorid=314708&amp;show_refs=1&amp;show_option=1" title="Список публикаций данного автора на портале elibrary.ru">74</a><a href="author_profile.asp?id=314708" title="Анализ публикационной активности автора"><img src="/pic/stat.gif" width="12" height="13" hspace="10" border="0"></a></div></td>
+<td nowrap="" align="center" class="midtext"><div style="margin-top:8px;"><a href="author_refs.asp?authorid=314708&amp;show_option=1" title="Список цитирований работ данного автора из всех публикаций на портале elibrary.ru">544</a></div></td><td nowrap="" align="center" class="midtext select-tr-right"><div style="margin-top:8px;">12</div></td></tr>
+
+
+
+<input type="hidden" id="hid314708" name="hid314708" value="Дрожжин К Н">
+
+<tr valign="top" id="a39190" bgcolor="#f5f5f5">
+<td align="center" class="midtext select-tr-left"><font color="#00008f"><div style="margin-top:8px;"><b>58.</b></div></font><br></td>
+<td align="center"><div style="margin-top:7px;"><input type="checkbox" name="tid39190" id="tid39190" onclick="if (document.getElementById(&quot;tid39190&quot;).checked) {RowSelect(&quot;a39190&quot;,1)} else {RowSelect(&quot;a39190&quot;,0)}"></div></td>
+<td align="left" class="midtext"><font color="#00008f"><b>Дрожжин&nbsp; Алексей&nbsp; Петрович</b></font><span class="aster" title="Автор зарегистрирован в SCIENCE INDEX">*</span>
+<br>
+Институт гидродинамики им. М.А. Лаврентьева СО РАН (Новосибирск)
+</td>
+
+
+<td nowrap="" align="right" class="midtext"><div style="margin-top:8px;"><a href="author_items.asp?authorid=39190&amp;show_refs=1&amp;show_option=1" title="Список публикаций данного автора на портале elibrary.ru">116</a><a href="author_profile.asp?id=39190" title="Анализ публикационной активности автора"><img src="/pic/stat.gif" width="12" height="13" hspace="10" border="0"></a></div></td>
+<td nowrap="" align="center" class="midtext"><div style="margin-top:8px;"><a href="author_refs.asp?authorid=39190&amp;show_option=1" title="Список цитирований работ данного автора из всех публикаций на портале elibrary.ru">3746</a></div></td><td nowrap="" align="center" class="midtext select-tr-right"><div style="margin-top:8px;">12</div></td></tr>
+
+
+
+<input type="hidden" id="hid39190" name="hid39190" value="Дрожжин А П">
+
+<tr valign="top" id="a988245" bgcolor="#f5f5f5">
+<td align="center" class="midtext select-tr-left"><font color="#00008f"><div style="margin-top:8px;"><b>59.</b></div></font><br></td>
+<td align="center"><div style="margin-top:7px;"><input type="checkbox" name="tid988245" id="tid988245" onclick="if (document.getElementById(&quot;tid988245&quot;).checked) {RowSelect(&quot;a988245&quot;,1)} else {RowSelect(&quot;a988245&quot;,0)}"></div></td>
+<td align="left" class="midtext"><font color="#00008f"><b>Дрожжина&nbsp; (Лотошко)&nbsp; Валентина&nbsp; Александровна</b></font><span class="aster" title="Автор зарегистрирован в SCIENCE INDEX">*</span>
+<br>
+Северо-Западный государственный медицинский университет им. И.И. Мечникова (Санкт-Петербург)
+</td>
+
+
+<td nowrap="" align="right" class="midtext"><div style="margin-top:8px;"><a href="author_items.asp?authorid=988245&amp;show_refs=1&amp;show_option=1" title="Список публикаций данного автора на портале elibrary.ru">110</a><a href="author_profile.asp?id=988245" title="Анализ публикационной активности автора"><img src="/pic/stat.gif" width="12" height="13" hspace="10" border="0"></a></div></td>
+<td nowrap="" align="center" class="midtext"><div style="margin-top:8px;"><a href="author_refs.asp?authorid=988245&amp;show_option=1" title="Список цитирований работ данного автора из всех публикаций на портале elibrary.ru">888</a></div></td><td nowrap="" align="center" class="midtext select-tr-right"><div style="margin-top:8px;">13</div></td></tr>
+
+
+
+<input type="hidden" id="hid988245" name="hid988245" value="Дрожжина В А">
+
+<tr valign="top" id="a118736" bgcolor="#f5f5f5">
+<td align="center" class="midtext select-tr-left"><font color="#00008f"><div><b>60.</b></div></font><br></td>
+<td align="center"><div><input type="checkbox" name="tid118736" id="tid118736" onclick="if (document.getElementById(&quot;tid118736&quot;).checked) {RowSelect(&quot;a118736&quot;,1)} else {RowSelect(&quot;a118736&quot;,0)}"></div></td>
+<td align="left" class="midtext"><font color="#00008f"><b>Дрожжинов&nbsp; Владимир&nbsp; Иванович</b></font>
+<br>
+Группа Аквариус (Москва)
+</td>
+
+
+<td nowrap="" align="right" class="midtext"><div><a href="author_items.asp?authorid=118736&amp;show_refs=1&amp;show_option=1" title="Список публикаций данного автора на портале elibrary.ru">57</a><a href="author_profile.asp?id=118736" title="Анализ публикационной активности автора"><img src="/pic/stat.gif" width="12" height="13" hspace="10" border="0"></a></div></td>
+<td nowrap="" align="center" class="midtext"><div><a href="author_refs.asp?authorid=118736&amp;show_option=1" title="Список цитирований работ данного автора из всех публикаций на портале elibrary.ru">1385</a></div></td><td nowrap="" align="center" class="midtext select-tr-right"><div>15</div></td></tr>
+
+
+
+<input type="hidden" id="hid118736" name="hid118736" value="Дрожжинов В И">
+
+<tr valign="top" id="a131731" bgcolor="#f5f5f5">
+<td align="center" class="midtext select-tr-left"><font color="#00008f"><div style="margin-top:8px;"><b>61.</b></div></font><br></td>
+<td align="center"><div style="margin-top:7px;"><input type="checkbox" name="tid131731" id="tid131731" onclick="if (document.getElementById(&quot;tid131731&quot;).checked) {RowSelect(&quot;a131731&quot;,1)} else {RowSelect(&quot;a131731&quot;,0)}"></div></td>
+<td align="left" class="midtext"><font color="#00008f"><b>Дрожжин&nbsp; Олег&nbsp; Андреевич</b></font><span class="aster" title="Автор зарегистрирован в SCIENCE INDEX">*</span>
+<br>
+Московский государственный университет им. М.В. Ломоносова (Москва)
+</td>
+
+
+<td nowrap="" align="right" class="midtext"><div style="margin-top:8px;"><a href="author_items.asp?authorid=131731&amp;show_refs=1&amp;show_option=1" title="Список публикаций данного автора на портале elibrary.ru">91</a><a href="author_profile.asp?id=131731" title="Анализ публикационной активности автора"><img src="/pic/stat.gif" width="12" height="13" hspace="10" border="0"></a></div></td>
+<td nowrap="" align="center" class="midtext"><div style="margin-top:8px;"><a href="author_refs.asp?authorid=131731&amp;show_option=1" title="Список цитирований работ данного автора из всех публикаций на портале elibrary.ru">1031</a></div></td><td nowrap="" align="center" class="midtext select-tr-right"><div style="margin-top:8px;">17</div></td></tr>
+
+
+
+<input type="hidden" id="hid131731" name="hid131731" value="Дрожжин О А">
+
+<tr valign="top" id="a314715" bgcolor="#f5f5f5">
+<td align="center" class="midtext select-tr-left"><font color="#00008f"><div style="margin-top:8px;"><b>62.</b></div></font><br></td>
+<td align="center"><div style="margin-top:7px;"><input type="checkbox" name="tid314715" id="tid314715" onclick="if (document.getElementById(&quot;tid314715&quot;).checked) {RowSelect(&quot;a314715&quot;,1)} else {RowSelect(&quot;a314715&quot;,0)}"></div></td>
+<td align="left" class="midtext"><font color="#00008f"><b>Дрожжина&nbsp; Наталья&nbsp; Борисовна</b></font><span class="aster" title="Автор зарегистрирован в SCIENCE INDEX">*</span>
+<br>
+Ставропольский государственный аграрный университет (Ставрополь)
+</td>
+
+
+<td nowrap="" align="right" class="midtext"><div style="margin-top:8px;"><a href="author_items.asp?authorid=314715&amp;show_refs=1&amp;show_option=1" title="Список публикаций данного автора на портале elibrary.ru">47</a><a href="author_profile.asp?id=314715" title="Анализ публикационной активности автора"><img src="/pic/stat.gif" width="12" height="13" hspace="10" border="0"></a></div></td>
+<td nowrap="" align="center" class="midtext"><div style="margin-top:8px;"><a href="author_refs.asp?authorid=314715&amp;show_option=1" title="Список цитирований работ данного автора из всех публикаций на портале elibrary.ru">650</a></div></td><td nowrap="" align="center" class="midtext select-tr-right"><div style="margin-top:8px;">18</div></td></tr>
+
+
+
+<input type="hidden" id="hid314715" name="hid314715" value="Дрожжина Н Б">
+
+</tbody>

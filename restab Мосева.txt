@@ -1,0 +1,63 @@
+<tbody>
+<tr align="center" valign="middle" height="15">
+<td width="34" class="midtext"><font color="#000000">&nbsp;<b>№</b></font></td>
+<td width="24">&nbsp;</td>
+<td width="364" class="midtext"><font color="#000000"><b>Автор</b></font></td>
+<td width="54" align="left" class="midtext"><span title="Число публикаций автора на elibrary.ru"><font color="#000000"><b>Публ.</b></font></span></td>
+<td width="24" class="midtext"><span title="Число цитирований публикаций автора на elibrary.ru"><font color="#000000"><b>Цит.</b></font></span></td>
+<td width="44" class="midtext"><span title="Индекс Хирша автора по elibrary.ru"><font color="#000000"><b>Хирш</b></font></span></td></tr>
+<tr><td colspan="6">
+<div style="width: 574px;" class="table-line"></div>
+</td>
+</tr>
+<tr><td colspan="6" height="0"></td></tr>
+
+<tr valign="top" id="a1230650" bgcolor="#f5f5f5">
+<td align="center" class="midtext select-tr-left"><font color="#00008f"><div style="margin-top:8px;"><b>1.</b></div></font><br></td>
+<td align="center"><div style="margin-top:7px;"><input type="checkbox" name="tid1230650" id="tid1230650" onclick="if (document.getElementById(&quot;tid1230650&quot;).checked) {RowSelect(&quot;a1230650&quot;,1)} else {RowSelect(&quot;a1230650&quot;,0)}"></div></td>
+<td align="left" class="midtext"><font color="#00008f"><b>Мосева&nbsp; Алеся&nbsp; Сергеевна</b></font><span class="aster" title="Автор зарегистрирован в SCIENCE INDEX">*</span>
+<br>
+Московский технический университет связи и информатики (Москва)
+</td>
+
+
+<td nowrap="" align="right" class="midtext"><div style="margin-top:8px;"><a href="author_items.asp?authorid=1230650&amp;show_refs=1&amp;show_option=1" title="Список публикаций данного автора на портале elibrary.ru">2</a><a href="author_profile.asp?id=1230650" title="Анализ публикационной активности автора"><img src="/pic/stat.gif" width="12" height="13" hspace="10" border="0"></a></div></td>
+<td nowrap="" align="center" class="midtext"><div style="margin-top:8px;"><font color="#00008f">0</font></div></td><td nowrap="" align="center" class="midtext select-tr-right"><div style="margin-top:8px;">0</div></td></tr>
+
+
+
+<input type="hidden" id="hid1230650" name="hid1230650" value="Мосева А С">
+
+<tr valign="top" id="a165452" bgcolor="#f5f5f5">
+<td align="center" class="midtext select-tr-left"><font color="#00008f"><div><b>2.</b></div></font><br></td>
+<td align="center"><div><input type="checkbox" name="tid165452" id="tid165452" onclick="if (document.getElementById(&quot;tid165452&quot;).checked) {RowSelect(&quot;a165452&quot;,1)} else {RowSelect(&quot;a165452&quot;,0)}"></div></td>
+<td align="left" class="midtext"><font color="#00008f"><b>Мосева&nbsp; (Никанорова)&nbsp; Нина&nbsp; Сергеевна</b></font>
+<br>
+Институт катализа им. Г.К. Борескова СО РАН (Новосибирск)
+</td>
+
+
+<td nowrap="" align="right" class="midtext"><div><a href="author_items.asp?authorid=165452&amp;show_refs=1&amp;show_option=1" title="Список публикаций данного автора на портале elibrary.ru">2</a><a href="author_profile.asp?id=165452" title="Анализ публикационной активности автора"><img src="/pic/stat.gif" width="12" height="13" hspace="10" border="0"></a></div></td>
+<td nowrap="" align="center" class="midtext"><div><a href="author_refs.asp?authorid=165452&amp;show_option=1" title="Список цитирований работ данного автора из всех публикаций на портале elibrary.ru">52</a></div></td><td nowrap="" align="center" class="midtext select-tr-right"><div>2</div></td></tr>
+
+
+
+<input type="hidden" id="hid165452" name="hid165452" value="Мосева Н С">
+
+<tr valign="top" id="a946893" bgcolor="#f5f5f5">
+<td align="center" class="midtext select-tr-left"><font color="#00008f"><div style="margin-top:8px;"><b>3.</b></div></font><br></td>
+<td align="center"><div style="margin-top:7px;"><input type="checkbox" name="tid946893" id="tid946893" onclick="if (document.getElementById(&quot;tid946893&quot;).checked) {RowSelect(&quot;a946893&quot;,1)} else {RowSelect(&quot;a946893&quot;,0)}"></div></td>
+<td align="left" class="midtext"><font color="#00008f"><b>Мосева&nbsp; Марина&nbsp; Сергеевна</b></font><span class="aster" title="Автор зарегистрирован в SCIENCE INDEX">*</span>
+<br>
+Московский технический университет связи и информатики (Москва)
+</td>
+
+
+<td nowrap="" align="right" class="midtext"><div style="margin-top:8px;"><a href="author_items.asp?authorid=946893&amp;show_refs=1&amp;show_option=1" title="Список публикаций данного автора на портале elibrary.ru">65</a><a href="author_profile.asp?id=946893" title="Анализ публикационной активности автора"><img src="/pic/stat.gif" width="12" height="13" hspace="10" border="0"></a></div></td>
+<td nowrap="" align="center" class="midtext"><div style="margin-top:8px;"><a href="author_refs.asp?authorid=946893&amp;show_option=1" title="Список цитирований работ данного автора из всех публикаций на портале elibrary.ru">115</a></div></td><td nowrap="" align="center" class="midtext select-tr-right"><div style="margin-top:8px;">5</div></td></tr>
+
+
+
+<input type="hidden" id="hid946893" name="hid946893" value="Мосева М С">
+
+</tbody>
