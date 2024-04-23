@@ -18,10 +18,10 @@ let finalResultArticles= {
 
 (async (inputString) => {
     console.log(inputString)
-    const browser = await puppeteer.launch({ headless: true, userDataDir: './tmp' });
+    const browser = await puppeteer.launch({ headless: false, userDataDir: './tmp' });
     const page = await browser.newPage();
 
-    await page.goto('https://elibrary.ru/author_items.asp?authorid=1230650&show_refs=1&show_option=1', { waitUntil: 'networkidle0' });
+    await page.goto('https://elibrary.ru/author_items.asp?authorid=946893&show_refs=1&show_option=1', { waitUntil: 'networkidle0' });
     const elementName= await page.$('#thepage > table > tbody > tr > td > table:nth-child(1) > tbody > tr > td:nth-child(2) > form > table > tbody > tr:nth-child(3) > td:nth-child(1) > table > tbody > tr > td > div:nth-child(1) > font > b');
     finalResultArticles.nameAuthor=await page.evaluate((element) => element.textContent, elementName);
     let countPage = 1;
