@@ -46,7 +46,9 @@ export function parseCheerioElement(findArr){
             dataAboutArt.linkToArticle="Ссылка на публикацию в ресурсе elibrary.ru не указана!";
 
             //Авторы
-            dataAboutArt.authors=$informForScrap.find('font[color="#00008f"]').eq(1).text().split(',').map(author => author.trim());
+            // dataAboutArt.authors=$informForScrap.find('font[color="#00008f"]').eq(1).text().trim();//.split(',').map(author => author.trim());
+            dataAboutArt.authors = $informForScrap.find('font[color="#00008f"]')
+                .find('i').first().text().trim();
 
             finalSetArticlesPage.push(dataAboutArt);
 
