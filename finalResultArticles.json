@@ -1,0 +1,333 @@
+{
+  "nameAuthor": "МОСЕВА МАРИНА СЕРГЕЕВНА",
+  "articlesList": [
+    {
+      "titleOfArticle": "LANIUS",
+      "linkToArticle": "https://elibrary.ru/item.asp?id=50275956",
+      "authors": "Городничев М.Г., Мкртчян Г.М., Мосева М.С., Симонов С.Е."
+    },
+    {
+      "titleOfArticle": "ПРОГРАММА ДЕТЕКТИРОВАНИЯ ДВИЖУЩИХСЯ ОБЪЕКТОВ ПРИ СЛОЖНЫХ ПОГОДНЫХ УСЛОВИЯХ",
+      "linkToArticle": "https://elibrary.ru/item.asp?id=55999848",
+      "authors": "Харрасов К.Р., Мосева М.С., Городничев М.Г."
+    },
+    {
+      "titleOfArticle": "LABELSPEECH - ПРОГРАММНЫЙ КОМПЛЕКС, ПРЕДНАЗНАЧЕННЫЙ ДЛЯ АННОТАЦИИ РАЗЛИЧНЫХ ВИДОВ ДАННЫХ, ВКЛЮЧАЯ АУДИО, ВИДЕО, ТЕКСТ И ИЗОБРАЖЕНИЯ",
+      "linkToArticle": "https://elibrary.ru/item.asp?id=56000150",
+      "authors": "Мкртчян Г.М., Мосева М.С., Павликов А.Е., Заликов Р.А."
+    },
+    {
+      "titleOfArticle": "РАЗРАБОТКА НЕЙРОСЕТЕВЫХ МЕТОДОВ РАСПОЗНАВАНИЯ ОБРАЗОВ В ЗАДАЧЕ УПРАВЛЕНИЯ ТРАНСПОРТНЫМИ ПОТОКАМИ",
+      "linkToArticle": "https://elibrary.ru/item.asp?id=59957647",
+      "authors": "Мосева М.С."
+    },
+    {
+      "titleOfArticle": "О СУЩЕСТВУЮЩИХ МЕТОДАХ УДАЛЕНИЯ ЗАШУМЛЕНИЙ НА ИЗОБРАЖЕНИИ",
+      "linkToArticle": "https://elibrary.ru/item.asp?id=54724880",
+      "authors": "Мосева М.С., Харрасов К.Р."
+    },
+    {
+      "titleOfArticle": "DEVELOPMENT OF SOFTWARE MODULE FOR RECOGNIZING TRAFFIC FLOWS THROUGH DEEP LEARNING",
+      "linkToArticle": "https://elibrary.ru/item.asp?id=60081989",
+      "authors": "Gorodnichev M.G., Erokhin S.D., Sheremetev A.V., Gematudinov R.A., Moseva M.S."
+    },
+    {
+      "titleOfArticle": "ON THE PROBLEM OF DEVELOPING A FAULT-TOLERANT HIGH-LOADED CLUSTER OF SUPPORT FOR AN INTELLIGENT TRANSPORTATION SYSTEM",
+      "linkToArticle": "https://elibrary.ru/item.asp?id=58187842",
+      "authors": "Gorodnichev M., Moseva M."
+    },
+    {
+      "titleOfArticle": "ON METHODS OF VERIFICATION OF MATHEMATICAL MODELS OF TRAFFIC FLOWS ON REAL DATA",
+      "linkToArticle": "https://elibrary.ru/item.asp?id=58188091",
+      "authors": "Moseva M., Polyantseva K."
+    },
+    {
+      "titleOfArticle": "ON THE PROBLEM OF DEVELOPING A REALISTIC ROAD INFRASTRUCTURE SIMULATOR FOR REINFORCED LEARNING",
+      "linkToArticle": "https://elibrary.ru/item.asp?id=58188139",
+      "authors": "Polyantseva K., Gorodnichev M., Mitrokhin Ya., Moseva M."
+    },
+    {
+      "titleOfArticle": "ON THE TASK OF LOCALIZATION OF ROAD INFRASTRUCTURE OBJECTS BASED ON AUDIO SIGNALS",
+      "linkToArticle": "https://elibrary.ru/item.asp?id=58188219",
+      "authors": "Simonov S., Moseva M., Polyantseva K., Mkrtchian G."
+    },
+    {
+      "titleOfArticle": "ALGORITHM FOR PREDICTING PEDESTRIAN BEHAVIOR ON PUBLIC ROADS",
+      "linkToArticle": "https://elibrary.ru/item.asp?id=54737387",
+      "authors": "Moseva M., Gorodnichev M., Polyantseva K., Pavlikov A."
+    },
+    {
+      "titleOfArticle": "ENSURING THE RELIABILITY OF A HIGHLY LOADED VEHICLE MONITORING AND TRAFFIC CONTROL PLATFORM",
+      "linkToArticle": "https://elibrary.ru/item.asp?id=54737393",
+      "authors": "Polyantseva K., Gorodnichev M., Moseva M."
+    },
+    {
+      "titleOfArticle": "PROVIDING FAULT TOLERANCE OF CLUSTER COMPUTING SYSTEMS BASED ON FAULT-TOLERANT DYNAMIC COMPUTATION PLANNING",
+      "linkToArticle": "https://elibrary.ru/item.asp?id=48432132",
+      "authors": "Tourouta E., Gorodnichev M., Polyantseva K., Moseva M."
+    },
+    {
+      "titleOfArticle": "ON THE PROBLEM OF RESTORING AND CLASSIFYING A 3D OBJECT IN CREATING A SIMULATOR OF A REALISTIC URBAN ENVIRONMENT",
+      "linkToArticle": "https://elibrary.ru/item.asp?id=55648928",
+      "authors": "Gorodnichev M., Erokhin S., Polyantseva K., Moseva M."
+    },
+    {
+      "titleOfArticle": "О МЕТОДАХ СБОРА И АНАЛИЗА ОСНОВНЫХ ХАРАКТЕРИСТИК ТРАНСПОРТНОГО ПОТОКА",
+      "linkToArticle": "https://elibrary.ru/item.asp?id=48066541",
+      "authors": "Мосева М.С."
+    },
+    {
+      "titleOfArticle": "АНАЛИЗ НЕИСПРАВНОСТЕЙ СИНХРОННЫХ ДВИГАТЕЛЕЙ С ПОСТОЯННЫМИ МАГНИТАМИ НА ОСНОВЕ МОНИТОРИНГА ВИБРАЦИИ С ИСПОЛЬЗОВАНИЕМ НЕЙРОННЫХ СЕТЕЙ",
+      "linkToArticle": "https://elibrary.ru/item.asp?id=48695153",
+      "authors": "Саксонов Е.А., Симонов С.Е., Городничев М.Г., Мосева М.С."
+    },
+    {
+      "titleOfArticle": "О ЗАДАЧЕ РАЗРАБОТКИ АВТОМАТИЧЕСКОГО КОНВЕЙЕРА ЗАПУСКА МОДЕЛЕЙ МАШИННОГО ОБУЧЕНИЯ",
+      "linkToArticle": "https://elibrary.ru/item.asp?id=48573514",
+      "authors": "Мосева М.С."
+    },
+    {
+      "titleOfArticle": "ИССЛЕДОВАНИЕ ВЛИЯНИЯ ТУМАНА НА СИСТЕМЫ МАШИННОГО ЗРЕНИЯ",
+      "linkToArticle": "https://elibrary.ru/item.asp?id=48925597",
+      "authors": "Городничев М.Г., Мосева М.С."
+    },
+    {
+      "titleOfArticle": "RESEARCH AND DEVELOPMENT OF A SYSTEM FOR DETERMINING ABNORMAL HUMAN BEHAVIOR BY VIDEO IMAGE BASED ON DEEPSTREAM TECHNOLOGY",
+      "linkToArticle": "https://elibrary.ru/item.asp?id=50169258",
+      "authors": "Gorodnichev M.G., Gromov M.D., Polyantseva K.A., Moseva M.S."
+    },
+    {
+      "titleOfArticle": "DEVELOPMENT OF A SYSTEM FOR FIXING ROAD MARKINGS IN REAL TIME",
+      "linkToArticle": "https://elibrary.ru/item.asp?id=50194579",
+      "authors": "Moseva M.S., Gorodnichev M.G., Polyantseva K.A., Vlasov G.G., Gromov M.D."
+    },
+    {
+      "titleOfArticle": "PROTHETAM",
+      "linkToArticle": "https://elibrary.ru/item.asp?id=46483297",
+      "authors": "Городничев М.Г., Гематудинов Р.А., Джабраилов Х.А., Мосева М.С., Полянцева К.А."
+    },
+    {
+      "titleOfArticle": "ПРОГРАММА ДЕФЕКТОВКИ ДОРОЖНОГО ПОЛОТНА ПОСРЕДСТВОМ СТЕРЕОПАР",
+      "linkToArticle": "https://elibrary.ru/item.asp?id=46483943",
+      "authors": "Городничев М.Г., Полянцева К.А., Мосева М.С."
+    },
+    {
+      "titleOfArticle": "ПРОГРАММНЫЙ МОДУЛЬ РАСПОЗНАВАНИЯ ТИПА, МАРКИ И ЦВЕТА ТРАНСПОРТНОГО СРЕДСТВА",
+      "linkToArticle": "https://elibrary.ru/item.asp?id=46484226",
+      "authors": "Городничев М.Г., Мосева М.С., Полянцева К.А."
+    },
+    {
+      "titleOfArticle": "ПРОГРАММНЫЙ МОДУЛЬ ОПРЕДЕЛЕНИЯ ОСНОВНЫХ ХАРАКТЕРИСТИК ТРАНСПОРТНОГО ПОТОКА (ИНТЕНСИВНОСТЬ, ПЛОТНОСТЬ, КАЧЕСТВЕННЫЙ СОСТАВ) НА ОСНОВЕ ВИДЕОПОТОКА",
+      "linkToArticle": "https://elibrary.ru/item.asp?id=46484263",
+      "authors": "Городничев М.Г., Мосева М.С., Полянцева К.А."
+    },
+    {
+      "titleOfArticle": "ПРОГРАММНЫЙ КОМПЛЕКС РЕИДЕНТИФИКАЦИИ ДВИЖУЩИХСЯ ОБЪЕКТОВ В СИСТЕМАХ ВИДЕОНАБЛЮДЕНИЯ",
+      "linkToArticle": "https://elibrary.ru/item.asp?id=46484723",
+      "authors": "Городничев М.Г., Громов М.Д., Мосева М.С., Полянцева К.А."
+    },
+    {
+      "titleOfArticle": "PVISION - ПРОГРАММНЫЙ КОМПЛЕКС АВТОМАТИЗИРОВАННОГО РАСПОЗНАВАНИЯ СРЕДСТВ ИНДИВИДУАЛЬНОЙ ЗАЩИТЫ И АНОМАЛЬНОГО ПОВЕДЕНИЯ ЛЮДЕЙ",
+      "linkToArticle": "https://elibrary.ru/item.asp?id=47258205",
+      "authors": "Городничев М.Г., Громов М.Д., Саркисов Н.Б., Мосева М.С."
+    },
+    {
+      "titleOfArticle": "INTELLIGENT SYSTEM FOR RECOGNIZING THE MAIN CHARACTERISTICS OF THE TRAFFIC FLOW",
+      "linkToArticle": "https://elibrary.ru/item.asp?id=48131528",
+      "authors": "Gorodnichev M.G., Polyantseva K.A., Moseva M.S., Sheremetev A.V., Gematudinov R.A."
+    },
+    {
+      "titleOfArticle": "DEVELOPMENT OF A PLATFORM FOR ROAD INFRASTRUCTURE DIGITAL CERTIFICATION",
+      "linkToArticle": "https://elibrary.ru/item.asp?id=48132512",
+      "authors": "Moseva M.S., Gorodnichev M.G., Polyantseva K.A., Sheremetev A.V., Dzhabrailov K.A."
+    },
+    {
+      "titleOfArticle": "ON-BOARD VIDEO METHOD FOR CORRECTION OF GEOPOSITION USING REFERENCE POINTS",
+      "linkToArticle": "https://elibrary.ru/item.asp?id=46994755",
+      "authors": "Yashina M.V., Moseva M.S."
+    },
+    {
+      "titleOfArticle": "STUDY OF MACHINE LEARNING TECHNIQUES FOR TRANSPORT",
+      "linkToArticle": "https://elibrary.ru/item.asp?id=45064333",
+      "authors": "Degtyareva V.V., Gorodnichev M.G., Moseva M.S."
+    },
+    {
+      "titleOfArticle": "ARCHITECTURE DEVELOPMENT FOR A HIGH-LOAD VEHICLE TRACKING APPLICATION",
+      "linkToArticle": "https://elibrary.ru/item.asp?id=47022867",
+      "authors": "Gorodnichev M.G., Moseva M.S., Belousov D.R."
+    },
+    {
+      "titleOfArticle": "МОБИЛЬНОЕ ПРИЛОЖЕНИЕ МНОГОПАРАМЕТРИЧЕСКОГО СБОРА ОСНОВНЫХ ХАРАКТЕРИСТИК ТРАНСПОРТНЫХ ПОТОКОВ ПОД УПРАВЛЕНИЕМ ОС IOS",
+      "linkToArticle": "https://elibrary.ru/item.asp?id=42501071",
+      "authors": "Городничев М.Г., Мосева М.С., Полянцева К.А."
+    },
+    {
+      "titleOfArticle": "ПРОГРАММНОЕ РЕШЕНИЕ ЗАДАЧИ КОРРЕКТИРОВКИ СЫРЫХ ДАННЫХ, ПОЛУЧАЕМЫХ С АКСЕЛЕРОМЕТРА, ГИРОСКОПА И GPS-ДАТЧИКА, ПОСРЕДСТВОМ НЕЙРОННЫХ СЕТЕЙ",
+      "linkToArticle": "https://elibrary.ru/item.asp?id=42501072",
+      "authors": "Городничев М.Г., Мосева М.С., Полянцева К.А."
+    },
+    {
+      "titleOfArticle": "ПРОГРАММНАЯ РЕАЛИЗАЦИЯ ИЕРАРХИЧЕСКОЙ КЛАСТЕРИЗАЦИИ ПОВЕДЕНЧЕСКОГО ФАКТОРА ВОДИТЕЛЕЙ МЕТОДАМИ МАШИННОГО ОБУЧЕНИЯ",
+      "linkToArticle": "https://elibrary.ru/item.asp?id=42585682",
+      "authors": "Городничев М.Г., Мосева М.С."
+    },
+    {
+      "titleOfArticle": "ПРОГРАММНАЯ ПЛАТФОРМА МОНИТОРИНГА И УПРАВЛЕНИЯ ДВИЖЕНИЕМ БЕСПИЛОТНЫХ ТРАНСПОРТНЫХ СРЕДСТВ",
+      "linkToArticle": "https://elibrary.ru/item.asp?id=42585697",
+      "authors": "Городничев М.Г., Мосева М.С., Полянцева К.А."
+    },
+    {
+      "titleOfArticle": "МОБИЛЬНОЕ ПРИЛОЖЕНИЕ МНОГОПАРАМЕТРИЧЕСКОГО СБОРА ОСНОВНЫХ ХАРАКТЕРИСТИК ТРАНСПОРТНЫХ ПОТОКОВ ПОД УПРАВЛЕНИЕМ ОС ANDROID",
+      "linkToArticle": "https://elibrary.ru/item.asp?id=42585698",
+      "authors": "Городничев М.Г., Мосева М.С., Полянцева К.А."
+    },
+    {
+      "titleOfArticle": "РАЗРАБОТКА УНИФИЦИРОВАННОГО БЛОКА УПРАВЛЕНИЯ ДЛЯ ПЕРЕХОДА К БЕСПИЛОТНОМУ ТРАНСПОРТУ С МОДУЛЕМ ПРОГНОЗИРОВАНИЯ ВЫХОДА ИЗ СТРОЯ ОТДЕЛЬНЫХ АГРЕГАТОВ",
+      "linkToArticle": "https://elibrary.ru/item.asp?id=45782529",
+      "authors": "Городничев М.Г., Чантиева М.Э., Потапченко Т.Д., Мосева М.С., Полянцева К.А., Саркисов Н.Б., Громов М.Д."
+    },
+    {
+      "titleOfArticle": "DESIGN FEATURES OF THE ON-BOARD COMPLEX FOR IMAGE RECOGNITION TASKS IN DRIVER ASSISTANCE SYSTEMS (DAS)",
+      "linkToArticle": "https://elibrary.ru/item.asp?id=43275070",
+      "authors": "Moseva M.S., Yashina M.V., Nosov E.A."
+    },
+    {
+      "titleOfArticle": "DEVELOPMENT OF ALGORITHMS FOR RECOGNITION OF OBJECTS IN VIDEO IN REAL TIME",
+      "linkToArticle": "https://elibrary.ru/item.asp?id=45295466",
+      "authors": "Gorodnichev M.G., Moseva M.S., Dzhabrailov K.A., Gematudinov R.A."
+    },
+    {
+      "titleOfArticle": "NEURAL NETWORK METHODS IN REAL-TIME RECOGNITION OF ROAD INFRASTRUCTURE OBJECTS",
+      "linkToArticle": "https://elibrary.ru/item.asp?id=45219763",
+      "authors": "Gorodnichev M., Moseva M., Dzhabrailov K., Yashina M., Gematudinov R."
+    },
+    {
+      "titleOfArticle": "СРАВНИТЕЛЬНЫЙ АНАЛИЗ И РАЗРАБОТКА ИНТЕЛЛЕКТУАЛЬНЫХ СИСТЕМ АВТОМАТИЧЕСКОГО ДЕТЕКТИРОВАНИЯ ДОРОЖНО-ТРАНСПОРТНЫХ ПРОИСШЕСТВИЙ",
+      "linkToArticle": "https://elibrary.ru/item.asp?id=44552152",
+      "authors": "Московская Е.Д., Звягина О.В., Полянцева К.А., Мосева М.С."
+    },
+    {
+      "titleOfArticle": "DEVELOPMENT OF A UNIFIED CONTROL UNIT FOR AN ON-BOARD VEHICLE SYSTEM WITH A MODULE FOR PREDICTING THE FAILURE OF INDIVIDUAL UNITS BY MACHINE LEARNING METHODS",
+      "linkToArticle": "https://elibrary.ru/item.asp?id=45444056",
+      "authors": "Sheluhin O.I., Gorodnichev M.G., Moseva M.S., Izotova A.A."
+    },
+    {
+      "titleOfArticle": "ON THE TASK OF RECOGNIZING ROAD INFRASTRUCTURE ON DEVICES WITH LOW COMPUTING POWER",
+      "linkToArticle": "https://elibrary.ru/item.asp?id=45046516",
+      "authors": "Moseva M., Gorodnichev M., Dzhabrailov Kh., Gematudinov R."
+    },
+    {
+      "titleOfArticle": "ON METHODS FOR RECOGNIZING UNSTRUCTURED ROAD MAINTENANCE OBJECTS USING DEEP LEARNING ALGORITHMS",
+      "linkToArticle": "https://elibrary.ru/item.asp?id=45047522",
+      "authors": "Gorodnichev M., Moseva M., Dzhabrailov K., Gematudinov R."
+    },
+    {
+      "titleOfArticle": "ПРОГРАММНАЯ ПЛАТФОРМА НА ОСНОВЕ ТЕХНОЛОГИИ БЛОКЧЕЙН ДЛЯ ПОДТВЕРЖДЕНИЯ И ХРАНЕНИЯ ДАННЫХ О ПОСТАВКАХ",
+      "linkToArticle": "https://elibrary.ru/item.asp?id=39316865",
+      "authors": "Городничев М.Г., Кухаренко А.М., Махров С.С., Мосева М.С."
+    },
+    {
+      "titleOfArticle": "ПРОГРАММА СИНХРОНИЗАЦИИ ДАННЫХ РАСПРЕДЕЛЕННОЙ ВЫЧИСЛИТЕЛЬНОЙ СИСТЕМЫ С КЛИЕНТ-СЕРВЕРНОЙ АРХИТЕКТУРОЙ - КЛИЕНТСКАЯ ЧАСТЬ",
+      "linkToArticle": "https://elibrary.ru/item.asp?id=39316866",
+      "authors": "Городничев М.Г., Кочупалов А.Е., Доткулова А.С., Мосева М.С."
+    },
+    {
+      "titleOfArticle": "ПРОГРАММА СИНХРОНИЗАЦИИ ДАННЫХ РАСПРЕДЕЛЕННОЙ ВЫЧИСЛИТЕЛЬНОЙ СИСТЕМЫ С КЛИЕНТ-СЕРВЕРНОЙ АРХИТЕКТУРОЙ – СЕРВЕРНАЯ ЧАСТЬ",
+      "linkToArticle": "https://elibrary.ru/item.asp?id=39317512",
+      "authors": "Городничев М.Г., Кочупалов А.Е., Доткулова А.С., Мосева М.С."
+    },
+    {
+      "titleOfArticle": "ПРОГРАММА, РЕАЛИЗУЮЩАЯ ПРОТОКОЛ БЕЗОПАСНОЙ ПЕРЕДАЧИ ДАННЫХ В БЕСПРОВОДНЫХ СЕНСОРНЫХ СЕТЯХ - NEUROCHAIN",
+      "linkToArticle": "https://elibrary.ru/item.asp?id=39317974",
+      "authors": "Городничев М.Г., Липатова А.Д., Доткулова А.С., Мосева М.С., Константинов Н.Э."
+    },
+    {
+      "titleOfArticle": "ПРОГРАММА МАРКИРОВКИ И ОТСЛЕЖИВАНИЯ ЖИЗНЕННОГО ЦИКЛА ПРОДУКЦИИ НА ОСНОВЕ ТЕХНОЛОГИИ БЛОКЧЕЙН - СЕРВЕРНАЯ ЧАСТЬ",
+      "linkToArticle": "https://elibrary.ru/item.asp?id=41363657",
+      "authors": "Городничев М.Г., Липатова А.Д., Павликов А.Е., Мосева М.С."
+    },
+    {
+      "titleOfArticle": "ПРОГРАММА МАРКИРОВКИ И ОТСЛЕЖИВАНИЯ ЖИЗНЕННОГО ЦИКЛА ПРОДУКЦИИ НА ОСНОВЕ ТЕХНОЛОГИИ БЛОКЧЕЙН – КЛИЕНТСКАЯ ЧАСТЬ",
+      "linkToArticle": "https://elibrary.ru/item.asp?id=41363992",
+      "authors": "Городничев М.Г., Липатова А.Д., Павликов А.Е., Мосева М.С., Мелехин А.А."
+    },
+    {
+      "titleOfArticle": "СИСТЕМА ЭЛЕКТРОННОГО ДОКУМЕНТООБОРОТА С ИСПОЛЬЗОВАНИЕМ ЭЛЕКТРОННОЙ ПОДПИСИ НА БАЗЕ ТЕХНОЛОГИИ БЛОКЧЕЙН",
+      "linkToArticle": "https://elibrary.ru/item.asp?id=41532159",
+      "authors": "Городничев М.Г., Липатова А.Д., Козлова А.С., Мосева М.С."
+    },
+    {
+      "titleOfArticle": "ПРОГРАММА АВТОМАТИЗИРОВАННОГО ОПРЕДЕЛЕНИЯ СКОРОСТИ И ГАБАРИТОВ ТРАНСПОРТНЫХ СРЕДСТВ НА ОСНОВАНИИ ИЗОБРАЖЕНИЙ, ПОЛУЧАЕМЫХ СО СТЕРЕОКАМЕР",
+      "linkToArticle": "https://elibrary.ru/item.asp?id=41532490",
+      "authors": "Городничев М.Г., Полянцева К.А., Гематудинов Р.А., Мосева М.С., Джабраилов Х.А."
+    },
+    {
+      "titleOfArticle": "ПРОГРАММА ДЛЯ ХРАНЕНИЯ КОНФИДЕНЦИАЛЬНОЙ ИНФОРМАЦИИ НА ОСНОВЕ ТЕХНОЛОГИИ BLOCKCHAIN",
+      "linkToArticle": "https://elibrary.ru/item.asp?id=41533546",
+      "authors": "Городничев М.Г., Липатова А.Д., Доткулова А.С., Мосева М.С., Кухаренко А.М."
+    },
+    {
+      "titleOfArticle": "РАЗРАБОТКА МЕТОДОВ И СРЕДСТВ ФУНКЦИОНИРОВАНИЯ И ОБЕСПЕЧЕНИЯ ИНФОРМАЦИОННОЙ БЕЗОПАСНОСТИ РАСПРЕДЕЛЕННЫХ РЕЕСТРОВ, ПРЕДНАЗНАЧЕННЫХ ДЛЯ АРХИВИРОВАНИЯ ДАННЫХ",
+      "linkToArticle": "https://elibrary.ru/item.asp?id=45845904",
+      "authors": "Саксонов Е.А., Городничев М.Г., Панков К.Н., Махров С.С., Мосева М.С."
+    },
+    {
+      "titleOfArticle": "DEVELOPMENT OF PLATFORM FOR CONFIRMING AND STORING SUPPLY DATA USING BLOCKCHAIN TECHNOLOGY",
+      "linkToArticle": "https://elibrary.ru/item.asp?id=43223203",
+      "authors": "Gorodnichev M.G., Nazarova A.N., Moseva M.S."
+    },
+    {
+      "titleOfArticle": "ON SOME METHODS FOR CORRECTING ACCELEROMETER AND GYROSCOPE DATA USING MACHINE LEARNING ALGORITHMS",
+      "linkToArticle": "https://elibrary.ru/item.asp?id=43241217",
+      "authors": "Gorodnichev M.G., Polyantseva K.A., Moseva M.S., Yashina M.V."
+    },
+    {
+      "titleOfArticle": "FEATURES OF THE DEVELOPMENT OF INFORMATION SYSTEMS FOR WORKING WITH BLOCKCHAIN TECHNOLOGY",
+      "linkToArticle": "https://elibrary.ru/item.asp?id=42406234",
+      "authors": "Gorodnichev M.G., Kukharenko E.G., Salutina T.U., Moseva M.S., Kukharenko A.M."
+    },
+    {
+      "titleOfArticle": "MACHINE LEARNING IN THE TASKS OF IDENTIFYING UNWANTED CONTENT",
+      "linkToArticle": "https://elibrary.ru/item.asp?id=41679230",
+      "authors": "Gorodnichev M.G., Vanushina A.V., Moseva M.S., Trubnikova N.V."
+    },
+    {
+      "titleOfArticle": "ON THE APPLICABILITY OF NEURAL NETWORKS IN THE TASKS OF DETECTING DANGEROUS MOVEMENT",
+      "linkToArticle": "https://elibrary.ru/item.asp?id=41695278",
+      "authors": "Polyantseva K.A., Gorodnichev M.G., Moseva M.S., Potapchenko T.D."
+    },
+    {
+      "titleOfArticle": "METHOD OF THE GPS TRACKING ANALYSIS FOR EXTRACTION OF GEOMETRICAL PROPERTIES",
+      "linkToArticle": "https://elibrary.ru/item.asp?id=38654958",
+      "authors": "Tishkin V.F., Yashina M.V., Moseva M.S., Yashin V.B."
+    },
+    {
+      "titleOfArticle": "МОДИФИКАЦИЯ ПРИНЦИПОВ ПРЕДСТАВЛЕНИЯ ЦИФРОВОЙ ИНФОРМАЦИИ В СОВРЕМЕННЫХ ВЫЧИСЛИТЕЛЬНЫХ УСТРОЙСТВАХ",
+      "linkToArticle": "https://elibrary.ru/item.asp?id=35341885",
+      "authors": "Мосева М.С., Яшина М.В."
+    },
+    {
+      "titleOfArticle": "О МЕТОДАХ МОБИЛЬНОГО СБОРА И АНАЛИЗА СЫРЫХ ДАННЫХ GPS-ТРЕКА В ЗАДАЧЕ ХАРАКТЕРИЗАЦИИ ТИПА ВОЖДЕНИЯ",
+      "linkToArticle": "https://elibrary.ru/item.asp?id=36574250",
+      "authors": "Мосева М.С., Тишкин В.Ф., Яшин В.Б., Яшина М.В."
+    },
+    {
+      "titleOfArticle": "МЕТОДЫ АВТОМАТИЗАЦИИ МЕТОДИЧЕСКОГО ОБЕСПЕЧЕНИЯ В ВУЗЕ В РАМКАХ КОМПЕТЕНТНОСТНО-ОРИЕНТИРОВАННОГО ПОДХОДА",
+      "linkToArticle": "https://elibrary.ru/item.asp?id=29907159",
+      "authors": "Яшина М.В., Мосева М.С."
+    },
+    {
+      "titleOfArticle": "ОСОБЕННОСТИ СИСТЕМ ИНФОРМАЦИОННОГО СОПРОВОЖДЕНИЯ ОБРАЗОВАТЕЛЬНОГО ПРОЦЕССА В ТЕХНИЧЕСКИХ УНИВЕРСИТЕТАХ",
+      "linkToArticle": "https://elibrary.ru/item.asp?id=30495434",
+      "authors": "Доткулова А.С., Мосева М.С., Яшина М.В."
+    },
+    {
+      "titleOfArticle": "МЕТОД ИНТЕЛЛЕКТУАЛЬНОЙ ВЕРИФИКАЦИИ ЛОГИЧЕСКИХ СВЯЗЕЙ МОДУЛЕЙ ООП В СООТВЕТСТВИИ С ФГОС ВО",
+      "linkToArticle": "https://elibrary.ru/item.asp?id=32265797",
+      "authors": "Доткулова А.С., Мосева М.С."
+    }
+  ],
+  "titleHighSchool": "Учреждение не указано",
+  "foundArticles": "Найдено публикаций : 65",
+  "titleHightSchool": "Московский технический университет связи и информатики"
+}

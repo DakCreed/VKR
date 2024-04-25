@@ -46,7 +46,9 @@ export function parseCheerioElement(findArr){
             dataAboutArt.linkToArticle="Ссылка на публикацию в ресурсе elibrary.ru не указана!";
 
             //Авторы
-            dataAboutArt.authors=$informForScrap.find('font[color="#00008f"]').eq(1).text().split(',').map(author => author.trim());
+            // dataAboutArt.authors=$informForScrap.find('font[color="#00008f"]').eq(1).text().trim();//.split(',').map(author => author.trim());
+            dataAboutArt.authors = $informForScrap.find('font[color="#00008f"]')
+                .find('i').first().text().trim();
 
             finalSetArticlesPage.push(dataAboutArt);
 
@@ -84,24 +86,25 @@ export function flattenObjectArrays(arrayOfArrays) {
 
 try {
     // Синхронное чтение файла
-    const data = fs.readFileSync('restab Мосева.txt', 'utf8');
+    const data = fs.readFileSync('restab Дрожжин2.txt', 'utf8');
     // Вывод содержимого файла
     // console.log('Данные файла:', data);
-    parseRestabTable(data);
+    // parseRestabTable(data);
 } catch (err) {
     // Обработка ошибок (например, если файл не найден)
     console.error('Ошибка при чтении файла:', err);
 }
 
 
-function parseRestabTable(restab){
+export function parseRestabTable(restab){
     let arrAuthorsObj=[]
 
     //Загрузили таблицу #restab в объект cheerio
     let $restab = cheerio.load(restab, null, false);
     const persons = $restab('tbody').children('tr[valign="top"][bgcolor="#f5f5f5"]');
-
+    let count=0;
     for (let elemPersons of persons) {
+        count++;
         let authorsObj = {
             nameAuthor: null,
             listOfPublications: null,
@@ -110,11 +113,11 @@ function parseRestabTable(restab){
         };
 
         try {
-            const id = $restab(elemPersons).attr('id');
-            if (!id) {
-                throw new Error("ID не найден для элемента person");
-            }
-            authorsObj.listOfPublications = `https://elibrary.ru/author_items.asp?authorid=${deleteA(id)}&show_refs=1&show_option=1`;
+            // const id = $restab(elemPersons).attr('id');
+            // if (!id) {
+            //     throw new Error("ID не найден для элемента person");
+            // }
+            // authorsObj.listOfPublications = `https://elibrary.ru/author_items.asp?authorid=${deleteA(id)}&show_refs=1&show_option=1`;
 
             const nameAuthor = $restab(elemPersons).find('td.midtext').find('font[color="#00008f"]').find('b:last').text();
             if (!nameAuthor) {
@@ -122,86 +125,52 @@ function parseRestabTable(restab){
             }
             authorsObj.nameAuthor = nameAuthor;
 
-            let $element = $restab(elemPersons);
 
-            let brElement=$element.find('br:last');
-            // Сначала находим родительский элемент, так как `.contents()` возвращает все дочерние узлы, включая текстовые
-            let parentOfBr = brElement.parent();
+            //Заполняем название университета
+            let $hightSchool = $restab(elemPersons);
+            let $td = $hightSchool.find('td[align="left"].midtext');
+            let lastContent = $td.contents().last();
+            if (lastContent.length === 0 || !lastContent[0] || !lastContent[0].data) {
+                throw new Error("Не удалось найти текст после последнего <br> или текст отсутствует");
+            }
+            authorsObj.titleHightSchool = lastContent[0].data.trim();
 
-// Получаем все узлы после 'br:last' включая текстовые узлы
-            let allContents = parentOfBr.contents();
-            let textAfterBr = "";
+            //Заполняем количество публикаций
+            const $a=$restab(elemPersons);
+            // let y=$a.find('a[title="Список публикаций данного автора на портале elibrary.ru"]').text();
+            if (!$a.find('a[title="Список публикаций данного автора на портале elibrary.ru"]').text() || $a.find('a[title="Список публикаций данного автора на портале elibrary.ru"]').text().length === 0) {
+                authorsObj.NumberOfPublications=0;
+            }else {
+                authorsObj.NumberOfPublications=Number($a.find('a[title="Список публикаций данного автора на портале elibrary.ru"]').text());
+            }
 
-// Находим индекс последнего 'br' в дочерних узлах
-            let brIndex = allContents.index(brElement) + 1;  // +1 чтобы начать поиск с элемента следующего за br
 
-// Итерируемся по всем узлам после последнего <br>
-            allContents.slice(brIndex).each(function() {
-                if (this.nodeType === 3) {  // nodeType 3 соответствует текстовому узлу
-                    textAfterBr += $element(this).text();
-                }
-            });
+            const id = $restab(elemPersons).attr('id');
+            if (!id) {
+                throw new Error("ID не найден для элемента person");
+            }
+            if (authorsObj.NumberOfPublications===0){
+                authorsObj.listOfPublications=`Публикации отсутствуют`;
+            }else if (authorsObj.NumberOfPublications>0){
+                authorsObj.listOfPublications=`https://elibrary.ru/author_items.asp?authorid=${deleteA(id)}&show_refs=1&show_option=1`;
+            }
 
-            console.log(textAfterBr.trim());
+            arrAuthorsObj.push(authorsObj);
 
-            console.log(brElement.length)
-
-            console.log($element.html())
-            console.log(authorsObj)
 
 
         } catch (error) {
             console.error("Ошибка при обработке данных элемента:", error.message);
             continue; // Пропускаем текущий элемент и продолжаем со следующим
         }
-
-        arrAuthorsObj.push(authorsObj);
     }
-
-    // persons.each((index, element) => {
-    //     const id = $restab(element).attr('id');
-    //     authorsObj.listOfPublications=`https://elibrary.ru/author_items.asp?authorid=${deleteA(id)}&show_refs=1&show_option=1`;
-    //     const htmlContent = $restab(element).html();
-    //     const nameAuthor = $restab(element).find('td.midtext').find('font[color="#00008f"]').find('b:last').text();
-    //     authorsObj.nameAuthor=nameAuthor;
-    //     let brElements=$restab(element).find('br');
-    //     brElements.each((index, brElement) => {
-    //         // Получить следующий элемент после <br>
-    //         const nextNode = brElement.nextSibling;
-    //         // Проверить, является ли следующий элемент текстовым узлом
-    //         if (nextNode && nextNode.nodeType === 3) {
-    //             // Вывести текст следующего узла
-    //             authorsObj.titleHightSchool=nextNode.nodeValue.trim();
-    //         }
-    //     });
-    //     arrAuthorsObj.push(authorsObj);
-    // });
-
-    // let linkContents = [];
-    // persons.each((index, person) => {
-    //     // Найти все теги <a> с атрибутом title
-    //     const links = $restab(person).find('a[title="Список публикаций данного автора на портале elibrary.ru"]');
-    //
-    //     // Пройтись по каждому найденному тегу <a> и добавить его содержимое в массив
-    //     links.each((i, link) => {
-    //         const content = $restab(link).text(); // Получить текстовое содержимое тега <a>
-    //         linkContents.push(content); // Добавить содержимое в массив
-    //     });
-    // });
-
-    // console.log(linkContents);
-    console.log(arrAuthorsObj)
-
-
+    // console.log(arrAuthorsObj);
+    return arrAuthorsObj;
 }
+
+
+
 
 function deleteA(str){
     return str.replace(/^a/, '');
-}
-
-function removeLeadingNumbersAndDot(str) {
-    // Регулярное выражение для поиска цифр, точки и пробела в начале строки
-    const regex = /^[\d.]+\s*/;
-    // Заменяем найденное регулярным выражением пустую строку
-    return str.replace(regex, '');
 }
